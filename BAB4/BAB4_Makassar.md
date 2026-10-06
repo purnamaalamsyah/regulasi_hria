@@ -74,13 +74,13 @@ Analisis ini berbasis teks regulasi (R-1) dari laporan sumber yang berstatus *dr
 
 | Hak | Pengaman utama | Pembebanan utama | Kelompok terutama terpapar | Status bukti |
 |---|---|---|---|---|
-| H1 Kesehatan | LASS, PTRM, VCT, larangan menolak (Perwali Ps 12 ayat (5), 20, 29); ARV/IMS (Perda Prov Ps 13) | Syarat PMO, RS kelas C (Perwali Ps 32); tarif tes dan konseling (Perda 1/2024); P4GN tanpa harm reduction | ODHIV baru terdiagnosis, ODHIV miskin, PENASUN | Isi aturan; pemungutan tarif belum diketahui |
-| H2 Non-diskriminasi | Perwali Ps 45; Perda Prov Ps 11; SOP pengaduan stigma TB | Definisi diskriminasi tanpa status kesehatan; PSK "seorang wanita"; tarif jenazah berlabel HIV | ODHIV dan keluarga, PSP, TG | Isi aturan |
-| H3 Privasi | Hasil tes rahasia; persetujuan tertulis (Perwali Ps 21, 23); kewajiban rahasia (Perda Prov Ps 10) | "Mandatory test"; pengecualian aparat (Perwali Ps 22 ayat (3)); pasangan boleh tahu; data napza; penahanan KTP | ODHIV, perempuan dengan HIV, PENASUN | Kandidat risiko |
-| H4 Pekerjaan | Program HIV tempat kerja; mitigasi sosial-ekonomi | Pemeriksaan berkala karyawan (Perda Prov Ps 16 ayat (5)); tes urine pelamar; pidana menggelandang | PSP, pekerja hiburan, pelamar kerja, TG | Risiko perlu dibuktikan |
-| H5 Informasi | Kecakapan hidup, kampanye kondom (Perwali); penerimaan kembali peserta didik (Perda 5/2022 Ps 11) | Tes urine siswa baru; konseling bertarif | Pelajar, mahasiswa | Isi aturan |
-| H6 Martabat | Pencegahan stigma (Perwali Ps 45) | Pidana status (Perda Prov Ps 9 jo. 20); "mendekati perzinaan" (Perda 7/2021 Ps 19); pengumuman media | ODHIV, PSP, LSL, TG | Kandidat risiko; tanpa keberatan |
-| H7 Partisipasi | Partisipasi bermakna (Perwali Ps 4 huruf e); peran ODHIV (Perda Prov) | Komunitas bukan unsur tim TBC dan P4GN | Komunitas ODHIV dan populasi kunci | Temuan normatif |
+| H1 Kesehatan | LASS, PTRM, VCT, larangan menolak (Perwali Ps 12, 20, 29); ARV (Perda Prov Ps 13) | Syarat PMO, RS kelas C (Perwali Ps 32); tarif tes dan konseling | ODHIV baru terdiagnosis dan miskin, PENASUN | Isi aturan; pemungutan belum diketahui |
+| H2 Non-diskriminasi | Perwali Ps 45; Perda Prov Ps 11; SOP stigma TB | PSK "seorang wanita"; tarif jenazah berlabel HIV | ODHIV dan keluarga, PSP, TG | Isi aturan |
+| H3 Privasi | Hasil tes rahasia; KTS tertulis (Perwali Ps 21, 23); rahasia (Perda Prov Ps 10) | "Mandatory test"; pengecualian aparat; pasangan boleh tahu; data napza | ODHIV, perempuan dengan HIV, PENASUN | Kandidat risiko |
+| H4 Pekerjaan | Program HIV tempat kerja; mitigasi sosial-ekonomi | Pemeriksaan karyawan (Perda Prov Ps 16 ayat (5)); tes urine pelamar | PSP, pekerja hiburan, pelamar kerja | Risiko perlu dibuktikan |
+| H5 Informasi | Kecakapan hidup, kondom (Perwali); peserta didik pascarehabilitasi (Perda 5/2022 Ps 11) | Tes urine siswa baru; konseling bertarif | Pelajar, mahasiswa | Isi aturan |
+| H6 Martabat | Pencegahan stigma (Perwali Ps 45) | Pidana status (Perda Prov Ps 9 jo. 20); "mendekati perzinaan" (Perda 7/2021 Ps 19) | ODHIV, PSP, LSL, TG | Kandidat risiko; tanpa keberatan |
+| H7 Partisipasi | Partisipasi bermakna (Perwali Ps 4 huruf e) | Komunitas bukan unsur tim TBC dan P4GN | Komunitas ODHIV dan populasi kunci | Temuan normatif |
 
 *Sumber: diolah dari laporan sumber Kota Makassar, bagian 4, 5, dan 7. Tidak ada skor; jumlah pasal tidak mengukur dampak dan tidak menunjukkan seberapa sering beban dialami.*
 
@@ -212,18 +212,18 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang** (tidak ter
 
 | Pengaman | Nasional | Provinsi Sulawesi Selatan | Kota Makassar | Arah perubahan | Status keyakinan |
 |---|---|---|---|---|---|
-| Persetujuan tes dan pengecualiannya | UU 17/2023 Ps 293; pengecualian Ps 295, 276 huruf d | Sukarela, berdampingan dengan "mandatory test" | Persetujuan tertulis KTS (Ps 23 ayat (2)); pengecualian aparat (Ps 22 ayat (3)) | Prov: bertentangan. Kota: ditambah | Kandidat |
-| Konseling dan pembukaan status | Lampiran 23/2022: notifikasi dengan persetujuan tertulis | Persetujuan dan konseling (Ps 10 ayat (2) angka 5) | Wajib memberi tahu pasangan (Ps 47); konseling jadi syarat ARV dan bertarif | Kota: hilang/diubah | Kandidat |
-| Kerahasiaan | UU 17/2023 Ps 4, 177, 301; PP 28/2024 Ps 735 | Wajib rahasia; tanpa sanksi pelanggaran | Hasil tes rahasia; pasangan boleh tahu (Ps 21 ayat (3)) | Kota: menyempit | Kandidat risiko |
+| Persetujuan tes | UU 17/2023 Ps 293; pengecualian Ps 295, 276 huruf d | Sukarela, di samping "mandatory test" | KTS tertulis (Ps 23 ayat (2)); pengecualian aparat (Ps 22 ayat (3)) | Prov: bertentangan. Kota: ditambah | Kandidat |
+| Konseling dan pembukaan status | Lampiran 23/2022: persetujuan tertulis | Persetujuan dan konseling (Ps 10 ayat (2) angka 5) | Wajib memberi tahu pasangan (Ps 47); konseling bertarif | Kota: hilang/diubah | Kandidat |
+| Kerahasiaan | UU 17/2023 Ps 4, 177, 301; PP 28/2024 Ps 735 | Wajib rahasia; tanpa sanksi | Rahasia; pasangan boleh tahu (Ps 21 ayat (3)) | Kota: menyempit | Kandidat risiko |
 | Non-diskriminasi | UU 17/2023 Ps 174; Permenkes 3/2026 Ps 2 huruf d | Larangan menolak, bersanksi (Ps 11 jo. 20) | Larangan menolak (Ps 29 ayat (1)); sanksi tidak ditemukan | Dipertahankan; penegakan menyempit | Temuan normatif |
-| Harm reduction | Lampiran 23/2022 Bab V huruf G | Jarum steril, metadon (Ps 8); hilang di Perda P4GN | LASS dengan konseling (Ps 12 ayat (5)) | Kota: ditambah. P4GN: hilang | Temuan normatif |
-| Pengakuan populasi kunci/TG | Lampiran 23/2022: waria = transgender | Menyebut waria (Ps 1 angka 14) | Menyebut waria; TG tidak di indikasi ARV | Menyempit | Kandidat |
-| Forum dan kursi komunitas | Perpres 124/2016 Ps 17A; Permenkes 3/2026 Ps 83, 86 | KPAP; Pergub Pokja belum ditemukan | KPA Tingkat Kota (Ps 43); tanpa kursi tertulis | Dipertahankan tematik | Temuan normatif |
-| Pembiayaan / tarif | Permendagri 59/2021 (pembebasan "dapat"); Permenkes 3/2026 Ps 95 | APBD tanpa angka; tanpa mandat ke kota | VCT "terjangkau" vs tarif (Perda 1/2024) | Menyempit | Kandidat; tidak dapat dinilai |
-| Pengaduan | Permenkes 3/2026 Ps 86, 93 ayat (2) | Belum ditemukan; SOP stigma TB (Pergub) | Belum ditemukan | Belum ditemukan | Belum dapat dinilai |
-| Pidana berbasis status | Tidak ada pidana khusus HIV; UU 23/2014 Ps 238 | Ps 9 jo. 20 | Tidak ditemukan; pasal hilang | Prov: ditambah | Kandidat risiko |
-| Pemeriksaan pekerja dan tes wajib | Kepmenakertrans 68/2004; UU 17/2023 Ps 295 | Pemeriksaan karyawan (Ps 16 ayat (5)); tes urine (Perda 5/2022) | Tidak ditemukan | Prov: ditambah | Kandidat |
-| Penertiban di lokasi layanan | Permenkes 3/2026 Ps 6, 25, 84; UU 23/2014 Ps 255 | Pengawasan "tempat yang rentan" (Perda 5/2022) | Pencegahan di tempat berisiko vs larangan sarana asusila | Kota: bertentangan (horizontal) | Kandidat ketegangan |
+| Harm reduction | Lampiran 23/2022 Bab V huruf G | Jarum steril, metadon (Ps 8); tidak ada di P4GN | LASS (Ps 12 ayat (5)) | Kota: ditambah. P4GN: hilang | Temuan normatif |
+| Pengakuan populasi kunci/TG | Lampiran 23/2022: waria = transgender | Waria disebut (Ps 1 angka 14) | Waria disebut; TG tidak di indikasi ARV | Menyempit | Kandidat |
+| Forum dan kursi komunitas | Perpres 124/2016 Ps 17A; Permenkes 3/2026 Ps 83, 86 | KPAP; Pergub Pokja belum ditemukan | KPA Tingkat Kota (Ps 43); tanpa kursi | Dipertahankan tematik | Temuan normatif |
+| Pembiayaan / tarif | Permendagri 59/2021 ("dapat"); Permenkes 3/2026 Ps 95 | APBD tanpa angka | VCT "terjangkau" vs tarif | Menyempit | Kandidat; tidak dapat dinilai |
+| Pengaduan | Permenkes 3/2026 Ps 86, 93 ayat (2) | Belum ditemukan; SOP stigma TB | Belum ditemukan | Belum ditemukan | Belum dapat dinilai |
+| Pidana berbasis status | Tidak ada; UU 23/2014 Ps 238 | Ps 9 jo. 20 | Tidak ditemukan; pasal hilang | Prov: ditambah | Kandidat risiko |
+| Pemeriksaan pekerja | Kepmenakertrans 68/2004 | Pemeriksaan karyawan (Ps 16 ayat (5)); tes urine | Tidak ditemukan | Prov: ditambah | Kandidat |
+| Penertiban | Permenkes 3/2026 Ps 6, 25, 84; UU 23/2014 Ps 255 | Pengawasan "tempat yang rentan" | Pencegahan di tempat berisiko vs larangan sarana asusila | Kota: bertentangan (horizontal) | Kandidat ketegangan |
 
 *Sumber: diolah dari laporan sumber Kota Makassar, bagian 3.2–3.3 dan 8. Kolom provinsi mengacu pada Perda Prov 4/2010 dan kolom kota pada Perwali 94/2017 kecuali disebut lain.*
 
