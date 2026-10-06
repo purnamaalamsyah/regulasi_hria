@@ -16,7 +16,7 @@ Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya berst
 
 *Korpus.* Instrumen dipetakan dalam Exhibit 4.1. Singkatan: Kepwal (Keputusan Wali Kota), Perwal (Peraturan Wali Kota), SKD (Sistem Kesehatan Daerah), RPJMD (Rencana Pembangunan Jangka Menengah Daerah 2025–2029), dan P4GN (Pencegahan dan Pemberantasan Penyalahgunaan dan Peredaran Gelap Narkotika). Kerangka nasional pembanding adalah UU 17/2023, PP 28/2024, dan Permenkes 3/2026, yang mencabut Permenkes 23/2022 kecuali Pasal 41 dan Lampiran (kini pedoman HIV sementara), ditambah antara lain UU 23/2014, Permendagri 59/2021, dan Kepmenakertrans 68/2004.
 
-*Status yang perlu dibedakan.* **Berlaku (terkonfirmasi)**: Perda Kota 8/2025 dan Perda Jabar 12/2012, diperiksa 5 Oktober 2026. **Konsisten dengan teks, sumber sekunder**: Perda Kota 3/2026, dan Perda Kota 4/2026 yang pengesahannya di DPRD 17 Juni 2026 terkonfirmasi media, sedangkan nomor dan pengundangan 30 Juli 2026 hanya dari teks korpus. **Historis/superseded**: Kepwal KPA 2023 (menurut teks Kepwal 2025) dan Kepwal KPA 2019. **STALE-CANDIDATE**: sepuluh dari dua belas instrumen mencatat rujukan usang; label ini menunjuk masalah keterlacakan, bukan pembatalan. **BELUM_TERVERIFIKASI**: lima instrumen belum diperiksa, dan ketiga Kepwal KPA tidak ditemukan dalam pencarian JDIH; keduanya tidak berarti aturan tidak berlaku. *Catatan data:* profil teknis wilayah menyebut seluruh instrumen BELUM_TERVERIFIKASI; bab ini mengikuti berkas verifikasi yang lebih baru, sebagaimana laporan sumber.
+*Status yang perlu dibedakan.* **Berlaku (terkonfirmasi)**: Perda Kota 8/2025 dan Perda Jabar 12/2012. **Konsisten dengan teks, sumber sekunder**: Perda Kota 3/2026, dan Perda Kota 4/2026 yang pengesahannya di DPRD 17 Juni 2026 terkonfirmasi media, sedangkan nomor dan pengundangan 30 Juli 2026 hanya dari teks korpus. **Historis/superseded**: Kepwal KPA 2023 (menurut teks Kepwal 2025) dan Kepwal KPA 2019. **STALE-CANDIDATE**: sepuluh dari dua belas instrumen mencatat rujukan usang; label ini menunjuk masalah keterlacakan, bukan pembatalan. **BELUM_TERVERIFIKASI**: lima instrumen belum diperiksa, dan ketiga Kepwal KPA tidak ditemukan dalam pencarian JDIH; keduanya tidak berarti aturan tidak berlaku. *Catatan data:* profil teknis wilayah menyebut seluruh instrumen BELUM_TERVERIFIKASI; bab ini mengikuti berkas verifikasi yang lebih baru, sebagaimana laporan sumber.
 
 *Keterbatasan korpus.* Belum ditemukan di folder, antara lain: Perda Kota 12/2015 (bagian narkotikanya dicabut Perda Kota 5/2021 Pasal 58, sedangkan bagian HIV-nya menurut teks tidak dicabut); Perda Kota 9/2019 yang menjadi baseline Perda Kota 3/2026; Perwal pelaksana Perda Kota 1/2020, 3/2026, 4/2026, dan 5/2021; Peraturan Gubernur (Pergub) perlindungan ODHIV dan Keputusan Gubernur tentang KPA Provinsi; serta pedoman teknis HIV menurut Permenkes 3/2026 Pasal 96 huruf a. Belum ditemukan tidak sama dengan tidak diatur. Label "RANCANGAN" muncul pada naskah yang memuat data penetapan; Kepwal KPA 2025 kehilangan beberapa halaman, termasuk Lampiran I susunan anggota; Perda Jabar 7/2018 berhenti setelah Pasal 36. Sebanyak 73 dari 101 kandidat isu dalam laporan sumber ditandai perlu telaah manusia.
 
@@ -149,7 +149,7 @@ Kedua lensa menunjukkan pola yang sama: pengaman berada di instrumen kesehatan d
 
 **9. Partisipasi kelembagaan.** *Norma:* KPA kota dan provinsi tanpa kursi komunitas; Lampiran I Kepwal 2025 hilang. *Terkena:* semua kelompok kunci. *Hak:* H7. *Mekanisme:* keputusan program diambil tanpa suara kelompok terdampak. *Bukti dibutuhkan:* daftar anggota KPA 2025.
 
-**Batas klaim.** Mekanisme ini menjelaskan bagaimana norma *dapat* bekerja. Laporan sumber mencatat penjelasan lain: Perda Kota 3/2026 tidak menyebut kondom secara eksplisit, tes urine bukan tes HIV, syarat NIK mungkin mengikuti pola nasional, dan Perda Jabar 12/2012 sendiri sudah memuat pidana penularan. Kemungkinan ini harus diuji dengan dokumen pelaksana dan praktik.
+**Batas klaim.** Mekanisme ini menjelaskan bagaimana norma *dapat* bekerja. Penjelasan lain dari laporan sumber (Perda Kota 3/2026 tidak menyebut kondom secara eksplisit, tes urine bukan tes HIV, syarat NIK mungkin mengikuti pola nasional) harus diuji dengan dokumen pelaksana dan praktik.
 
 ### 4.1.7 Pengaman Regulatif yang Perlu Dipertahankan
 
@@ -177,7 +177,7 @@ Regulasi yang berlaku di Kota Bandung tidak dapat diringkas sebagai melindungi a
 
 **Belum dapat dinilai (dokumen atau bukti dasar belum tersedia).** Bagian HIV Perda Kota 12/2015; isi Perwal pelaksana; susunan anggota KPA 2025; apakah skrining Perda Kota 4/2026 mencakup tes HIV; naskah final yang berlabel "RANCANGAN"; dan status hukum lima instrumen yang belum diperiksa.
 
-Pemisahan ini penting: temuan normatif dapat ditindaklanjuti dengan membaca ulang teks, kandidat ketegangan memerlukan telaah hukum, risiko memerlukan data lapangan, dan kekosongan dokumen memerlukan penelusuran arsip.
+Pemisahan ini penting: temuan normatif cukup dibaca ulang dari teks, kandidat ketegangan memerlukan telaah hukum, risiko memerlukan data lapangan, dan kekosongan dokumen memerlukan penelusuran arsip.
 
 Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana norma-norma tersebut berinteraksi dalam hirarki hukum nasional–provinsi–kota.
 
@@ -190,7 +190,7 @@ Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana
 Laporan sumber membedakan jenis relasi:
 
 - **Delegasi**: Permenkes 3/2026 Pasal 96 huruf a (pedoman teknis HIV, belum ditemukan); UU 23/2014 Pasal 264 sebagai dasar RPJMD; Perda Kota 3/2026 Pasal 65 dan Perda Kota 4/2026 Pasal 43 (Perwal dalam satu tahun; Perda Kota 4/2026 mendelegasikan sepuluh materi); Perda Jabar 12/2012 ke Pergub perlindungan dan teknis HIV (belum ditemukan).
-- **Aturan pelaksana**: PP 28/2024 menjembatani UU 17/2023 dan Permenkes 3/2026; Perda Kota 3/2026 mempertahankan Perwal 522/2007, sehingga penegakan sementara masih mengacu Perda 9/2019 dan Perwal 2007 (Pasal 61–62).
+- **Aturan pelaksana**: PP 28/2024 menjembatani UU 17/2023 dan Permenkes 3/2026; Perda Kota 3/2026 mempertahankan Perwal 522/2007 untuk penegakan sementara (Pasal 61–62).
 - **Rujukan dasar hukum**: Perda Jabar 11/2010 untuk Perda Jabar 12/2012; UU 17/2023 untuk Kepwal KPA 2025 dan Perda Kota 4/2026; Perda Kota 12/2015 untuk Kepwal KPA 2023.
 - **Perubahan dan pencabutan**: Perda Kota 14/2019 mengubah Perda 7/2012; Permenkes 3/2026 mencabut Permenkes 23/2022 kecuali Pasal 41 dan Lampiran; Perda Kota 5/2021 Pasal 58 mencabut bagian narkotika Perda Kota 12/2015; Kepwal KPA 2025 mencabut Kepwal 2023.
 - **Rujukan isi timbal balik**: Perda Jabar 12/2012 mengatur KPA dan pembinaan kabupaten/kota, sedangkan KPA Kota wajib melapor kepada KPA Provinsi; ini satu-satunya hubungan tertulis provinsi–kota.
@@ -285,7 +285,7 @@ Kategori arah: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daera
 
 ### 4.2.6 Batas Penilaian Kewenangan Kota Bandung
 
-**Temuan utama.** Beberapa ketegangan paling material menyangkut ruang pengaturan Perda kota tentang kesusilaan, pidana, dan narkotika. Laporan sumber belum melakukan uji kewenangan pasal per pasal, sehingga norma-norma itu memerlukan telaah kewenangan lebih lanjut.
+**Temuan utama.** Ketegangan paling material menyangkut ruang pengaturan Perda tentang kesusilaan, pidana, dan narkotika. Laporan sumber belum melakukan uji kewenangan pasal per pasal, sehingga norma-norma itu memerlukan telaah kewenangan lebih lanjut.
 
 Empat hal membatasi penilaian. *Pertama,* laporan sumber menandai Perda Kota 4/2026 Pasal 1 angka 7, Pasal 9 huruf h–i, dan Pasal 22 sebagai kandidat ketegangan terhadap UU 23/2014 Pasal 76 ayat (1) huruf b dan Pasal 250, dengan status "menunggu telaah hukum" dan dengan mencatat kerangka kesusilaan nasional sebagai penjelasan lain. *Kedua,* UU 23/2014 Pasal 238 membatasi pidana kurungan dalam Perda paling lama enam bulan; ancaman tiga bulan dalam Perda Jabar 12/2012 berada di bawah batas itu, sehingga yang dipersoalkan adalah objek yang dipidana, yaitu penularan tanpa unsur kesengajaan. *Ketiga,* kewenangan P4GN mengikuti kerangka Badan Narkotika Nasional, dasar delegasi Perda Kota 5/2021 perlu dicek, dan apakah skrining termasuk pengecualian program pemerintah menurut UU 17/2023 Pasal 295 belum dinilai. *Keempat,* tidak ada delegasi formal dari Perda Jabar ke instrumen kota; norma provinsi seperti pidana penularan berlaku di kota tanpa bergantung pada Perda kota, sehingga ketegangan kota–provinsi tidak dapat diurai dari sisi kota saja.
 

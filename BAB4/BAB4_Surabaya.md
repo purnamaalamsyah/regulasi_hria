@@ -149,13 +149,13 @@ Kedua lensa menunjukkan pola yang sama: pengaman terutama berada di aturan HIV, 
 
 **6. Beban administratif dan persyaratan akses.** *Norma:* 29 syarat, terdiri atas pemeriksaan (9), formulir (6), pelaporan (6), identitas dan domisili (2), rujukan (2), kehadiran fisik (1), dan lainnya (3); misalnya verifikasi kependudukan saat kembali berobat (Perwali TBC), inisiasi ARV di rumah sakit minimal kelas C (Perwali 29/2015), dan rumah singgah hanya melalui rujukan, paling lama tiga bulan (Pergub). *Terkena:* ODHIV yang memulai ARV, orang dengan TBC, warga yang ditertibkan. *Hak:* H1, H3, H6. *Mekanisme:* setiap syarat menambah titik pencatatan atau jeda sebelum layanan; persetujuan tertulis adalah pengaman sekaligus formulir. *Bukti dibutuhkan:* waktu inisiasi ARV dan alasan penundaan.
 
-**7. Regulatory silence.** *Norma:* TG tidak ada dalam definisi; harm reduction tidak disebut dalam aturan narkotika; pengaduan dan pembebasan tarif belum ditemukan; layanan HIV/IMS bagi korban TPPO tidak diatur. *Terkena:* TG, PENASUN, korban TPPO. *Hak:* H1, H2. *Mekanisme:* kelompok dan kebutuhan yang tidak tertulis sulit masuk ke sasaran dan anggaran. *Bukti dibutuhkan:* data layanan terpilah; sebagian kekosongan mungkin diisi dokumen yang belum ditemukan.
+**7. Regulatory silence.** *Norma:* TG tidak ada dalam definisi; harm reduction tidak disebut dalam aturan narkotika; pengaduan dan pembebasan tarif belum ditemukan; layanan HIV/IMS bagi korban TPPO tidak diatur. *Terkena:* TG, PENASUN, korban TPPO. *Hak:* H1, H2. *Mekanisme:* kebutuhan yang tidak tertulis sulit masuk ke sasaran dan anggaran. *Bukti dibutuhkan:* data layanan terpilah.
 
-**8. Hilangnya pengaman.** *Norma:* syarat konseling sebelum pembukaan status (Perda Jatim 12/2018 Pasal 18 ayat (2)) tidak terbawa ke Pergub maupun Perwali; harm reduction tidak terbawa ke aturan narkotika; uji kemunduran terhadap Perda Jatim 5/2004 belum dapat dilakukan. *Terkena:* ODHIV dan pasangannya; PENASUN. *Hak:* H3, H1. *Mekanisme:* pelaksana kota bekerja dengan Perwali yang tidak memuat syarat provinsi. *Bukti dibutuhkan:* praktik notifikasi pasangan dan insiden setelah pembukaan status.
+**8. Hilangnya pengaman.** *Norma:* syarat konseling sebelum pembukaan status (Perda Jatim 12/2018 Pasal 18 ayat (2)) tidak terbawa ke Pergub maupun Perwali; harm reduction tidak terbawa ke aturan narkotika. *Terkena:* ODHIV dan pasangannya; PENASUN. *Hak:* H3, H1. *Mekanisme:* pelaksana kota bekerja dengan Perwali yang tidak memuat syarat provinsi. *Bukti dibutuhkan:* praktik notifikasi pasangan.
 
-**9. Partisipasi kelembagaan.** *Norma:* KPA Kota (Perwali 29/2015 Pasal 39–40) tanpa PSP, LSL, dan TG; TKPHA tanpa ketentuan keanggotaan komunitas; keputusan pembentukan keduanya belum ditemukan. *Terkena:* PSP, LSL, TG. *Hak:* H7. *Mekanisme:* keputusan program dapat diambil tanpa suara sebagian kelompok terdampak. *Bukti dibutuhkan:* keputusan pembentukan beserta daftar anggota.
+**9. Partisipasi kelembagaan.** *Norma:* KPA Kota (Perwali 29/2015 Pasal 39–40) tanpa PSP, LSL, dan TG; TKPHA tanpa ketentuan keanggotaan komunitas. *Terkena:* PSP, LSL, TG. *Hak:* H7. *Mekanisme:* keputusan program dapat diambil tanpa suara sebagian kelompok terdampak. *Bukti dibutuhkan:* keputusan pembentukan KPA dan TKPHA.
 
-**Batas klaim.** Mekanisme ini menjelaskan bagaimana norma *dapat* bekerja; hitungan syarat atau pasal tidak menunjukkan besarnya beban dan tidak dipakai untuk membandingkan Surabaya dengan wilayah lain. Penjelasan alternatif yang dicatat sumber, bahwa fasyankes mungkin sudah memakai pedoman nasional, harus diuji dengan data layanan.
+**Batas klaim.** Mekanisme ini menjelaskan bagaimana norma *dapat* bekerja; hitungan syarat atau pasal tidak menunjukkan besarnya beban dan tidak dipakai untuk membandingkan Surabaya dengan wilayah lain.
 
 ### 4.1.7 Pengaman Regulatif yang Perlu Dipertahankan
 
@@ -167,8 +167,7 @@ Kedua lensa menunjukkan pola yang sama: pengaman terutama berada di aturan HIV, 
 - **Persetujuan tertulis KTS dan hak menolak TIPK** (Perwali 29/2015 Pasal 21 ayat (2), 22 ayat (2), 23 ayat (2)), dibaca bersama pengecualian Pasal 21 ayat (3).
 - **Jaminan kesehatan bagi ODHIV tidak mampu** (Pasal 37) dan **kampanye kondom** (Pasal 6 ayat (2)).
 - **Larangan PHK dan cuti pengobatan** bagi pekerja dengan TBC serta **TPT bagi ODHIV** (Perwali 117/2024 Pasal 33 ayat (6)–(7) dan Pasal 16).
-- **Syarat konseling sebelum pembukaan status** dan **tes wajib hanya sesuai peraturan** (Perda Jatim 12/2018 Pasal 18 ayat (2) dan 17 ayat (4)).
-- **Hak pendidikan peserta didik yang positif napza** (Perda Jatim 10/2022 Pasal 22 ayat (3)).
+- **Syarat konseling sebelum pembukaan status** dan **tes wajib hanya sesuai peraturan** (Perda Jatim 12/2018 Pasal 18 ayat (2) dan 17 ayat (4)), serta **hak pendidikan peserta didik yang positif napza** (Perda Jatim 10/2022 Pasal 22 ayat (3)).
 - **Larangan persekusi** (Perda Jatim 1/2019 Pasal 40 ayat (4)), **larangan sanksi ganda** (Pasal 49 ayat (9)–(10), baru 2025), dan **PPNS tidak berwenang menangkap atau menahan** (Perda Kota 2/2014 Pasal 45 ayat (3)).
 
 **Analisis.** Perwali 29/2015 memuat larangan menolak ODHIV sekaligus syarat ARV yang tertinggal dan pembukaan status kepada "pihak lain". Perwali 117/2024 melarang PHK sekaligus mencabut jaminan dan memblokir dokumen. Perda Jatim 1/2019 melarang persekusi sekaligus melarang siswa membawa kontrasepsi. Penilaian "baik" atau "buruk" atas satu aturan akan kehilangan salah satu sisi; pembacaan pasal demi pasal memungkinkan pengaman dijaga sementara pembebanan diperiksa tersendiri.
@@ -185,7 +184,7 @@ Regulasi yang berlaku di Kota Surabaya tidak dapat diringkas sebagai melindungi 
 
 **Belum dapat dinilai (dokumen atau bukti dasar belum tersedia).** Isi Perda Kota 4/2013; status hukum Perwali 29/2015 dan Perda Kota 1/2014; Perpres 67/2021, Pergub 50/2022, dan Pergub pelaksana P4GNPN; uji sanksi TBC terhadap UU SJSN; kemunduran terhadap Perda Jatim 5/2004; dan apakah Lampiran Permenkes 23/2022 memuat ARV tanpa ambang CD4.
 
-Temuan normatif dapat ditindaklanjuti dengan membaca ulang teks, kandidat ketegangan memerlukan telaah hukum, risiko memerlukan data lapangan, dan kekosongan dokumen memerlukan penelusuran arsip. Mencampur keempatnya membuat kesimpulan tampak lebih pasti daripada bukti yang tersedia.
+Mencampur keempat kategori ini akan membuat kesimpulan tampak lebih pasti daripada bukti yang tersedia.
 
 Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana norma-norma tersebut berinteraksi dalam hirarki hukum nasional–provinsi–kota.
 
@@ -197,21 +196,19 @@ Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana
 
 Laporan sumber membedakan jenis relasi:
 
-- **Delegasi**: Perda Jatim 12/2018 ke Pergub 35/2020; Permendagri 12/2019 (belum ditemukan) ke Perda Jatim 10/2022; Permenkes 3/2026 Pasal 96 huruf a ke pedoman teknis HIV. Turunan beberapa delegasi daerah belum ditemukan, misalnya Keputusan Wali Kota tentang KPA (Perwali 29/2015 Pasal 39 ayat (2)).
-- **Aturan pelaksana**: Perwali 29/2015 terhadap Perda Kota 4/2013, yang tidak dapat dinilai; Pasal 49 Perwali menghukum pelanggaran Pasal 19–30 Perda yang teksnya tidak tersedia.
+- **Delegasi**: Perda Jatim 12/2018 ke Pergub 35/2020; Permendagri 12/2019 (belum ditemukan) ke Perda Jatim 10/2022; Permenkes 3/2026 Pasal 96 huruf a ke pedoman teknis HIV; Perwali 29/2015 Pasal 39 ayat (2) ke Keputusan Wali Kota tentang KPA (belum ditemukan).
+- **Aturan pelaksana**: Perwali 29/2015 terhadap Perda Kota 4/2013, yang tidak dapat dinilai karena teks Perda tidak tersedia.
 - **Rujukan dasar hukum**: Permenkes 21/2013 ke Perwali 29/2015, dengan kerahasiaan dan pengecualiannya diteruskan hampir verbatim; UU 17/2023 dan Perpres 67/2021 ke Perwali 117/2024; rujukan usang Perwali ke Perda Jatim 5/2004.
-- **Rujukan isi**: Perda Jatim 1/2019 meneruskan penertiban ke kota melalui tugas pembantuan (Pasal 29–30); Perda Jatim 12/2018 (Pasal 24) dan Pergub (Pasal 31 ayat (3)) meneruskan tugas pengendalian HIV tanpa perintah membentuk Perda kota.
-- **Perubahan dan pencabutan**: perubahan kedua Perda ketertiban (2020, 2025); Perda Jatim 12/2018 mencabut 5/2004; Permenkes 3/2026 (Pasal 99 huruf cc) mencabut Permenkes 23/2022 kecuali Pasal 41 dan Lampiran.
-- **Hubungan substantif**: standar ARV Permenkes 23/2022 sebagai pembanding temporal bagi Perwali Pasal 32; larangan sanksi ganda provinsi kini menyentuh sanksi Perda ketertiban kota.
-- **Tematik tanpa relasi teks**: Perwali TBC–Perwali HIV; Perda Kota 2/2014–Perda Jatim 1/2019 (Perda kota lebih tua dan tidak merujuknya); Perda Jatim 10/2022–Perda Jatim 12/2018; Lampiran Permenkes 23/2022 dan PP 28/2024 Pasal 735 terhadap Perwali kota (tidak dirujuk).
+- **Rujukan isi**: tugas pembantuan penertiban (Perda Jatim 1/2019 Pasal 29–30) dan tugas pengendalian HIV kabupaten/kota (Perda Jatim 12/2018 Pasal 24; Pergub Pasal 31 ayat (3)), tanpa perintah membentuk Perda kota.
+- **Perubahan dan pencabutan**: Perda ketertiban kota dan provinsi diubah pada 2020 (provinsi juga pada 2025); Perda Jatim 12/2018 mencabut 5/2004; Permenkes 3/2026 (Pasal 99 huruf cc) mencabut Permenkes 23/2022 kecuali Pasal 41 dan Lampiran.
+- **Hubungan substantif**: standar ARV Permenkes 23/2022 sebagai pembanding temporal bagi Perwali Pasal 32; larangan sanksi ganda provinsi yang menyentuh sanksi Perda ketertiban kota.
+- **Tematik tanpa relasi teks**: Perwali TBC–Perwali HIV; Perda Kota 2/2014–Perda Jatim 1/2019; Perda Jatim 10/2022–Perda Jatim 12/2018; Lampiran Permenkes 23/2022 dan PP 28/2024 Pasal 735 terhadap Perwali kota (tidak dirujuk).
 
 **Analisis.** Pengaman nasional tidak "mengalir" melalui teks: persetujuan (UU 17/2023 Pasal 293) dan rahasia kesehatan (PP 28/2024 Pasal 735) tidak dirujuk Perwali HIV maupun Perwali TBC. Sebaliknya, Perda dan Pergub provinsi berlaku langsung di kota tanpa perlu dirujuk, sehingga Dinas Kesehatan Kota menghadapi dua set aturan HIV yang tidak saling merujuk dan Satpol PP menghadapi dua Perda ketertiban.
 
 ### 4.2.2 Alignment Pengaman HAM antar-Tingkat
 
-**Temuan utama.** Banyak pengaman sampai ke Surabaya dalam bentuk teks: persetujuan tes, konseling, larangan menolak ODHIV, harm reduction dalam aturan HIV, dan sebagian kursi komunitas. Penyempitan paling jelas terjadi pada kerahasiaan dan pembukaan status di Pergub dan Perwali. Kewenangan pembatasan paling banyak ditambahkan di aturan bukan-HIV.
-
-Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daerah** (pengaman atau beban baru), **Bertentangan (kandidat)**, dan **Belum ditemukan**. Semua adalah kandidat berbasis teks, bukan penilaian kepatuhan.
+**Temuan utama.** Banyak pengaman sampai ke Surabaya dalam bentuk teks: persetujuan tes, konseling, larangan menolak ODHIV, dan harm reduction dalam aturan HIV. Penyempitan paling jelas terjadi pada kerahasiaan dan pembukaan status di Pergub dan Perwali; kewenangan pembatasan paling banyak ditambahkan di aturan bukan-HIV. Kategori arah perubahan (**Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daerah**, **Bertentangan (kandidat)**, **Belum ditemukan**) adalah kandidat berbasis teks, bukan penilaian kepatuhan.
 
 **Exhibit 4.4. Alignment pengaman: Nasional → Provinsi Jawa Timur → Kota Surabaya**
 
@@ -235,7 +232,7 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditamba
 
 **Apa yang berubah sepanjang cascade?** *Kerahasiaan*: Perda provinsi menambah syarat konseling sebelum pembukaan status, tetapi syarat itu tidak muncul di Pergub maupun Perwali, yang membuka hasil tes kepada "pihak lain" dengan rumusan warisan Permenkes 2013. *Harm reduction*: dirinci di aturan HIV, tetapi hilang di aturan narkotika. *Sanksi*: pidana berbasis status HIV tidak ditemukan dalam paket, tetapi kota menambahkan sanksi berbasis status TBC yang menyentuh jaminan dan dokumen.
 
-**Analisis.** Persoalan utama bukan hilangnya pengaman di aturan HIV inti, melainkan penyempitan di aturan pelaksana dan penambahan beban di batas antarkeluarga aturan; sumber mencatat pola ini sejalan dengan Laporan Nasional bagian 7.2. Perubahan ketertiban 2020–2025 berarah campuran: pidana diperingan, larangan dan kewenangan pemeriksaan diperluas.
+**Analisis.** Persoalan utama bukan hilangnya pengaman di aturan HIV inti, melainkan penyempitan di aturan pelaksana dan penambahan beban di batas antarkeluarga aturan; sumber mencatat pola ini sejalan dengan Laporan Nasional bagian 7.2.
 
 ### 4.2.3 Titik Perubahan Pengaman
 
@@ -249,7 +246,7 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditamba
 
 **Titik D: layanan kota dan kerahasiaan operasional (Perwali 117/2024).** Perwali TBC menulis integrasi TB-HIV (Pasal 6) dan TPT (Pasal 16), tetapi menambah sanksi bantuan, stiker, BPJS, dan KK/NIK (Pasal 26 dan 29–31) serta syarat KTP, tanpa menyebut Perda sebagai dasar. Pengaman status HIV hilang di sistem informasinya (Pasal 23). *Analisis.* Instrumen kota terbaru membawa layanan HIV ke dalam layanan TBC, tetapi tidak membawa kerahasiaan HIV ke tingkat operasional. *Batas klaim.* Perpres 67/2021 dan Pergub 50/2022 belum ditemukan.
 
-**Sintesis.** Titik A dan B menunjukkan penyempitan dan ketertinggalan di aturan HIV pelaksana; Titik C dan D menunjukkan penambahan kewenangan pembatasan di aturan bukan-HIV. Tidak satu titik pun dapat disebut kemunduran final sebelum dokumen dasar ditemukan dan telaah manusia dilakukan.
+**Sintesis.** Titik A dan B menunjukkan penyempitan dan ketertinggalan di aturan HIV pelaksana; Titik C dan D menunjukkan penambahan kewenangan pembatasan di aturan bukan-HIV. Tidak satu titik pun dapat disebut kemunduran final sebelum dokumen dasar dan telaah manusia tersedia.
 
 ### 4.2.4 Ketegangan Internal, Horizontal, dan Vertikal
 
@@ -292,7 +289,7 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditamba
 
 *Isi aturan.* Perwali 29/2015 merujuk UU 36/2009, Permenkes 21/2013, Perpres 75/2006, dan Perda Jatim 5/2004; Perda Kota 1/2014 dan 2/2014 merujuk UU 36/2009 dan UU 32/2004; Perda Jatim 12/2018 merujuk UU 36/2009 dan Permenkes 21/2013; Perda Jatim 10/2022 merujuk UU 36/2009, yang diganti UU 17/2023 setelah Perda ditetapkan. Di tingkat nasional, batang tubuh Permenkes 3/2026 tidak menyebut HIV, pedoman teknis HIV menurut Pasal 96 huruf a belum ditemukan, tenggat Pasal 97 sudah lewat, dan TBC kini juga diatur, termasuk pelaporannya (Pasal 85).
 
-**Analisis.** Dasar hukum yang usang tidak otomatis membatalkan aturan; aturan daerah dapat tetap berlaku meskipun dasar hukumnya telah diganti. Persoalannya ada pada tiga hal. *Keterlacakan*: standar ARV Perwali tidak dapat lagi diarahkan ke batang tubuh Permenkes 23/2022, dan layanan profilaksis pascapajanan serta HIV/IMS bagi korban TPPO dahulu dapat dirujuk ke Permenkes 23/2022 Pasal 18 ayat (3), yang kini dicabut. *Harmonisasi*: Perwali HIV merujuk Perda provinsi yang sudah dicabut, sehingga Perda provinsi yang berlaku tidak terbaca dari teks kota. *Kesesuaian substantif*: sanksi Perwali TBC perlu diuji terhadap tujuan menghapus stigma dalam Permenkes 3/2026 (Pasal 2 huruf d dan 26 ayat (1)). Akibatnya, Surabaya dapat menjalankan standar yang sudah tidak dipakai di tingkat nasional; apakah hal itu terjadi belum diketahui.
+**Analisis.** Dasar hukum yang usang tidak otomatis membatalkan aturan; aturan daerah dapat tetap berlaku meskipun dasar hukumnya telah diganti. Persoalannya ada pada tiga hal. *Keterlacakan*: standar ARV Perwali tidak dapat lagi diarahkan ke batang tubuh Permenkes 23/2022, dan layanan HIV/IMS bagi korban TPPO dahulu dapat dirujuk ke Permenkes 23/2022 Pasal 18 ayat (3), yang kini dicabut. *Harmonisasi*: Perwali HIV merujuk Perda provinsi yang sudah dicabut. *Kesesuaian substantif*: sanksi Perwali TBC perlu diuji terhadap tujuan menghapus stigma dalam Permenkes 3/2026 (Pasal 2 huruf d dan 26 ayat (1)). Surabaya dapat menjalankan standar yang sudah tidak dipakai di tingkat nasional; apakah hal itu terjadi belum diketahui.
 
 **Batas klaim.** STALE-CANDIDATE adalah kandidat temuan, bukan putusan keabsahan. Isi pedoman teknis HIV yang akan datang tidak diketahui, dan bab ini tidak berasumsi tentang isinya.
 

@@ -1,6 +1,6 @@
 # BAB 4. ANALISIS REGULASI DAERAH
 
-Bab ini mendiagnosis bagaimana regulasi yang berlaku di Kota Banda Aceh menyentuh penanggulangan HIV, dan bagaimana aturan itu melindungi atau membebani hak orang dengan HIV (ODHIV) dan populasi kunci. Pertanyaannya: apa yang tertulis, hak siapa yang disentuh, melalui mekanisme apa, dan bagaimana norma berubah dari tingkat nasional ke Provinsi Aceh lalu ke Kota Banda Aceh. Bab ini adalah bab diagnosis, bukan bab rekomendasi.
+Bab ini mendiagnosis bagaimana regulasi yang berlaku di Kota Banda Aceh melindungi atau membebani hak orang dengan HIV (ODHIV) dan populasi kunci: apa yang tertulis, hak siapa yang disentuh, melalui mekanisme apa, dan bagaimana norma berubah dari tingkat nasional ke Provinsi Aceh lalu ke kota. Bab ini adalah bab diagnosis, bukan bab rekomendasi.
 
 Kota Banda Aceh tidak diatur hanya oleh peraturan kota. Di Aceh, peraturan daerah berbentuk qanun, dan Qanun Aceh serta Peraturan Gubernur (Pergub) berlaku langsung di wilayah kota. Instrumen khusus HIV belum ditemukan di folder kajian, baik di kota maupun provinsi; norma yang menyentuh ODHIV dan populasi kunci datang dari aturan kesejahteraan sosial, kesehatan, narkotika, ketertiban umum, dan hukum jinayat (hukum pidana berbasis syariat), dengan beban normatif terberat di provinsi. Karena itu, bab ini selalu membaca instrumen kota bersama instrumen provinsi, dengan kerangka nasional sebagai pembanding normatif.
 
@@ -44,11 +44,11 @@ Dua catatan berlaku untuk seluruh bab. *Pertama*, qanun syariat merujuk Undang-U
 
 **Temuan utama.** Aturan yang bekerja di Banda Aceh berasal dari tiga generasi: fondasi provinsi 2010–2014, lapisan kota 2018–2023, dan kerangka nasional baru 2022–2026. Tidak satu pun instrumen paket merujuk Permenkes 23/2022 atau Permenkes 3/2026.
 
-*Generasi pertama (2010–2014).* Qanun Aceh 4/2010 tentang Kesehatan (31 Desember 2010); Qanun Aceh 7/2013 dan 11/2013 (13 Desember 2013); Ingub 02/INSTR/2014 (28 Februari 2014), yang terbit sebelum Qanun Jinayat dan tidak merujuknya; Qanun Aceh 6/2014 dan 8/2014 (22 Oktober 2014).
+*Generasi pertama (2010–2014): fondasi provinsi.* Qanun Aceh 4/2010 tentang Kesehatan; Qanun Aceh 7/2013 dan 11/2013 (13 Desember 2013); Ingub 02/INSTR/2014, yang terbit sebelum Qanun Jinayat dan tidak merujuknya; serta Qanun Aceh 6/2014 dan 8/2014 (22 Oktober 2014).
 
-*Generasi kedua (2015–2023).* Setelah dua instrumen kota yang hanya tercatat sebagai metadata, terbit Perwal 7/2018 (9 Februari 2018), Qanun Kota 6/2018 (29 Desember 2018), Qanun Aceh 8/2018, Qanun Kota 2/2021, Pergub 58/2022, Pergub 11/2023, dan Qanun Kota 1/2023 (tanggal tidak terbaca): sesudah Qanun Kesejahteraan Sosial 2013, tetapi sebelum UU 17/2023.
+*Generasi kedua (2018–2023): lapisan kota.* Perwal 7/2018, Qanun Kota 6/2018, Qanun Kota 2/2021, dan Qanun Kota 1/2023, bersama Qanun Aceh 8/2018 dan dua Pergub, lahir sesudah Qanun Kesejahteraan Sosial 2013 tetapi sebelum UU 17/2023; dua instrumen kota 2015 dan 2017 hanya tercatat sebagai metadata.
 
-*Generasi ketiga (2022–2026).* Kerangka nasional berganti melalui Permenkes 23/2022, UU 27/2022, UU 17/2023, PP 28/2024, dan Permenkes 3/2026 (berlaku 11 Maret 2026). Pasal 97 Permenkes 3/2026 meminta daerah menyesuaikan aturan paling lambat 11 September 2026; pada cutoff tenggat itu sudah lewat. Di provinsi, Qanun Aceh 12/2025 mengubah Qanun Jinayat (berlaku 21 November 2025) tanpa menyebut HIV atau rehabilitasi wajib, lalu terbit Pergub 2/2026 dan Peraturan KPIA 01/2026.
+*Generasi ketiga (2022–2026): kerangka nasional baru.* Permenkes 23/2022, UU 27/2022, UU 17/2023, PP 28/2024, dan Permenkes 3/2026 (berlaku 11 Maret 2026), yang Pasal 97-nya meminta daerah menyesuaikan aturan paling lambat 11 September 2026; tenggat itu sudah lewat. Di provinsi, Qanun Aceh 12/2025 (berlaku 21 November 2025) mengubah Qanun Jinayat tanpa menyebut HIV, lalu terbit Pergub 2/2026 dan Peraturan KPIA 01/2026.
 
 **Analisis.** Kerangka 2022–2026 tidak terhubung secara tekstual ke instrumen Aceh mana pun. Usia regulasi tidak dengan sendirinya berarti buruk: Qanun Aceh 4/2010, instrumen tertua, memuat hak remaja atas informasi dan layanan HIV. Persoalannya adalah keterlacakan: aturan dari generasi berbeda bekerja bersamaan tanpa rujukan ke kerangka yang berlaku sekarang.
 
@@ -84,7 +84,7 @@ Dua catatan berlaku untuk seluruh bab. *Pertama*, qanun syariat merujuk Undang-U
 
 *Sumber: diolah dari laporan sumber Kota Banda Aceh, bagian 1.4 dan 4. Tidak ada skor; jumlah pasal tidak mengukur dampak.*
 
-**Batas klaim.** Matriks ini menunjukkan di mana teks melindungi atau membebani, bukan seberapa sering beban itu dialami. Hitungan isu per hak di dua tabel data sumber berbeda dasar penghitungannya, sehingga tidak dipakai di sini.
+**Batas klaim.** Matriks ini menunjukkan di mana teks melindungi atau membebani, bukan seberapa sering beban itu dialami; hitungan isu per hak dalam sumber tidak dipakai karena dua tabel datanya berbeda dasar penghitungan.
 
 ### 4.1.4 Distribusi Dampak terhadap Lima Kelompok Kunci
 
@@ -102,7 +102,7 @@ Laporan sumber mengode 15 instrumen: **REC+** (diakui sebagai pemegang hak), **R
 
 **PENASUN.** Tidak disebut di sepuluh instrumen; tiga dikode "REC0", kode yang tidak diuraikan sumber. Secara isi, PENASUN diakui sebagai "pecandu/korban penyalahguna" yang berhak atas rehabilitasi (Qanun Aceh 8/2018; Qanun Kota 1/2023), tetapi menghadapi wajib lapor, tes urine sebagai syarat kerja (Qanun Kota 1/2023 Pasal 27), dan hak yang disyaratkan rehabilitasi (Qanun Aceh 11/2013 Pasal 53). *Celah.* Pengurangan dampak buruk (*harm reduction*) tidak diatur. *Belum dapat disimpulkan:* rujukan institusi penerima wajib lapor (IPWL) ke layanan HIV dan cakupan layanan alat suntik steril (LASS) serta terapi rumatan metadon (PTRM).
 
-Kelompok beririsan juga tersentuh: orang miskin tanpa tempat tinggal; perempuan (larangan kerja malam; syarat mahram setelah pukul 21.00); perempuan yang berhubungan seks dengan perempuan (*musahaqah*, Pasal 64, tidak diubah); migran internal; dan anak, yang menurut bagian kelompok sumber dapat dikenai *'uqubat* (hukuman jinayat) sejak 12 tahun, padahal Pasal 67 kini hanya mengatur anak 16 sampai di bawah 18 tahun (subbab 4.2.4).
+Kelompok beririsan juga tersentuh: orang miskin tanpa tempat tinggal, perempuan (larangan kerja malam; syarat mahram), perempuan yang berhubungan seks dengan perempuan (*musahaqah*, Pasal 64, tidak diubah), migran internal, dan anak (subbab 4.2.4).
 
 **Exhibit 4.3. Matriks lima kelompok kunci: pengakuan × pembebanan × regulatory silence**
 
@@ -148,7 +148,7 @@ Bab ini memakai dua lensa terpisah. **AAAQ** membaca layanan kesehatan: ketersed
 
 **7. Regulatory silence.** *Norma:* instrumen HIV kota belum ditemukan; TG tidak disebut; LASS, PTRM, dan rujukan HIV tidak disebut dalam aturan narkotika; konseling, notifikasi pasangan, dan kanal pengaduan kesehatan tidak ditemukan. *Terkena:* ODHIV dewasa, TG, PENASUN. *Hak:* H1, H2, H5. *Mekanisme:* tanpa pengakuan tertulis, sasaran dan anggaran sulit menjangkau kelompok yang tidak disebut; penjelasan alternatif sumber: diam di kota dapat ditutup aturan nasional yang berlaku langsung. *Bukti dibutuhkan:* penelusuran JDIH kota; data layanan terpilah.
 
-**8. Hilangnya pengaman.** *Norma:* kerahasiaan identitas penyandang masalah kesejahteraan sosial (PMKS) dan layanan kesehatan bagi orang tanpa tempat tinggal di Qanun Aceh 11/2013 tidak muncul dalam Perwal 7/2018 dan Qanun Kota 6/2018 (rinciannya di subbab 4.2.3, Titik B). *Terkena:* orang tanpa tempat tinggal, ODHIV, PENASUN. *Hak:* H1, H3. *Mekanisme:* petugas penertiban tidak memiliki dasar tertulis untuk menjaga kerahasiaan atau merujuk ke layanan. *Bukti dibutuhkan:* SOP RSS dan Perwal tata cara sanksi.
+**8. Hilangnya pengaman.** *Norma:* kerahasiaan identitas penyandang masalah kesejahteraan sosial (PMKS) dan layanan kesehatan bagi orang tanpa tempat tinggal dalam Qanun Aceh 11/2013 tidak muncul dalam Perwal 7/2018 dan Qanun Kota 6/2018 (subbab 4.2.3, Titik B). *Terkena:* orang tanpa tempat tinggal, ODHIV, PENASUN. *Hak:* H1, H3. *Mekanisme:* petugas penertiban tidak memiliki dasar tertulis untuk menjaga kerahasiaan atau merujuk ke layanan. *Bukti dibutuhkan:* SOP RSS.
 
 **9. Partisipasi kelembagaan.** *Norma:* tim P4GN tanpa komunitas pengguna (Qanun Kota 1/2023 Pasal 47); Tim Percepatan TBC hanya unsur pemerintah (Pergub 58/2022 Pasal 28); KPA belum ditemukan. *Terkena:* semua kelompok kunci. *Hak:* H7. *Mekanisme:* keputusan program dapat diambil tanpa suara kelompok terdampak. *Bukti dibutuhkan:* instrumen pembentukan KPA atau forum.
 
@@ -163,7 +163,7 @@ Bab ini memakai dua lensa terpisah. **AAAQ** membaca layanan kesehatan: ketersed
 - **Provinsi, jinayat**: sidang tertutup perkara kesusilaan, rahasia jabatan, praperadilan, dan akses dokter pribadi (Qanun Aceh 7/2013 Pasal 149 ayat (4), 166, 82–89, 56); **kehamilan bukan bukti zina** tanpa alat bukti cukup (Qanun Aceh 6/2014 Pasal 36, tidak diubah); **hak korban kekerasan seksual dan perlindungan penyandang disabilitas** (Qanun Aceh 12/2025, Pasal 51–51C dan 50A).
 - **Lainnya**: penyamaran identitas kelompok rentan dalam siaran (Peraturan KPIA 01/2026) dan anak yang dilaporkan orang tua tidak dituntut (Qanun Aceh 8/2018).
 
-**Analisis.** Qanun Kota 1/2023 memuat asesmen rahasia sekaligus tes urine sebagai syarat kerja; Perwal 7/2018 memuat asas "gender" dan non-kekerasan sekaligus upaya koersif; Qanun Aceh 11/2013 memuat larangan diskriminasi dan kewajiban pengobatan bagi ODHIV sekaligus rehabilitasi wajib dan wajib lapor. Penilaian "baik" atau "buruk" atas satu qanun akan kehilangan salah satu sisi. Pembacaan pasal demi pasal, yang juga menjadi prinsip laporan sumber, memungkinkan pengaman dijaga sementara pembebanan diperiksa tersendiri.
+**Analisis.** Qanun Kota 1/2023, Perwal 7/2018, dan Qanun Aceh 11/2013 masing-masing memuat pengaman di atas sekaligus pembebanan: tes urine sebagai syarat kerja, upaya koersif, dan rehabilitasi wajib serta wajib lapor. Penilaian "baik" atau "buruk" atas satu qanun akan kehilangan salah satu sisi; pembacaan pasal demi pasal, yang juga menjadi prinsip laporan sumber, memungkinkan pengaman dijaga sementara pembebanan diperiksa tersendiri.
 
 ### 4.1.8 Sintesis Dampak Normatif dan Celah Bukti
 
@@ -176,8 +176,6 @@ Regulasi yang berlaku di Kota Banda Aceh tidak dapat diringkas sebagai melindung
 **Risiko yang perlu dibuktikan (membutuhkan bukti pelaksanaan).** ODHIV atau PENASUN tanpa tempat tinggal masuk penanganan koersif; rehabilitasi wajib membuat orang menghindari tes; pidana menjauhkan TG dan PSP yang hidup di jalan dari layanan; kondom dan materi KIE diperlakukan sebagai barang bukti; tes urine menyaring orang dalam terapi dari pekerjaan; orang tanpa dokumen Aceh sulit mengakses JKA. Tidak satu pun dapat dinyatakan sebagai fakta sebelum data R-2 sampai R-5 tersedia.
 
 **Belum dapat dinilai (dokumen atau bukti dasar belum tersedia).** Ada tidaknya instrumen HIV kota di JDIH; isi SOP RSS; keberadaan KPA; Lampiran sanksi Qanun Kota 6/2018; akibat perubahan Pasal 67 bagi anak 12–15 tahun; penyempitan kepesertaan JKA; status hukum enam belas instrumen paket; dan uji kewenangan terhadap UU 11/2006.
-
-Pemisahan ini penting: temuan normatif dapat ditindaklanjuti dengan membaca ulang teks, kandidat ketegangan memerlukan telaah hukum, risiko memerlukan data lapangan, dan kekosongan dokumen memerlukan penelusuran arsip.
 
 Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana norma-norma tersebut berinteraksi dalam hirarki hukum nasional–provinsi–kota.
 
@@ -195,13 +193,13 @@ Laporan sumber membedakan beberapa jenis relasi:
 - **Perubahan dan pencabutan**: Qanun Aceh 12/2025 mengubah Qanun Jinayat; Permenkes 3/2026 mencabut Permenkes 23/2022 kecuali Pasal 41 dan Lampiran (Pasal 99 huruf cc).
 - **Hubungan tematik tanpa relasi teks**: Qanun Jinayat dan Hukum Acara Jinayat terhadap instrumen kota (kesamaannya hanya aparat "Satpol PP dan WH" dan konsep khalwat); Lampiran Permenkes 23/2022 terhadap instrumen HIV kota yang belum ditemukan; UU 11/2006 sebagai dasar kewenangan qanun syariat.
 
-**Analisis.** Pengaman nasional tidak "mengalir" ke Banda Aceh melalui teks; persetujuan menurut UU 17/2023 Pasal 293 tidak dirujuk instrumen daerah mana pun. Sebaliknya, qanun provinsi berlaku langsung di kota tanpa perlu dirujuk, dan menurut laporan sumber kota tidak berwenang mengubahnya, tetapi dapat mengatur cara aparat kota bertindak. Karena itu, Satpol PP dan WH Kota, Dinas Sosial, dan Dinas Kesehatan menghadapi kewajiban kota dan provinsi sekaligus.
+**Analisis.** Pengaman nasional tidak "mengalir" ke Banda Aceh melalui teks; persetujuan menurut UU 17/2023 Pasal 293 tidak dirujuk instrumen daerah mana pun. Sebaliknya, qanun provinsi berlaku langsung di kota, dan menurut laporan sumber kota tidak berwenang mengubahnya, tetapi dapat mengatur cara aparat kota bertindak. Satpol PP dan WH Kota, Dinas Sosial, dan Dinas Kesehatan karena itu menghadapi kewajiban kota dan provinsi sekaligus.
 
 ### 4.2.2 Alignment Pengaman HAM antar-Tingkat
 
 **Temuan utama.** Dari 13 pengaman yang dipetakan, lima tidak ditemukan di provinsi maupun kota (konseling, notifikasi pasangan, forum dengan kursi komunitas, kanal pengaduan kesehatan, pengecualian kegiatan kesehatan dari penertiban). Tiga bergerak ke arah beban yang ditambahkan di daerah (pidana atas kondisi hidup, tes urine, rehabilitasi wajib). Satu justru diperkuat di kota: kerahasiaan asesmen P4GN.
 
-Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daerah** (pengaman atau beban baru), **Bertentangan (kandidat)**, dan **Belum ditemukan** (dokumen relevan belum tersedia). Semua penilaian adalah kandidat berbasis teks.
+Kategori arah: dipertahankan, menyempit, hilang, ditambah di daerah (pengaman atau beban baru), bertentangan (kandidat), dan belum ditemukan; semuanya kandidat berbasis teks.
 
 **Exhibit 4.4. Alignment pengaman: Nasional → Provinsi Aceh → Kota Banda Aceh**
 
@@ -223,9 +221,7 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditamba
 
 *Sumber: diolah dari laporan sumber Kota Banda Aceh, bagian 1.4 dan 3.2–3.3. Status keyakinan diturunkan dari kedudukan isu dalam bagian 6 dan 8 laporan sumber.*
 
-**Apa yang berubah sepanjang cascade?** *Kerahasiaan*: di tingkat nasional ia norma batang tubuh; di provinsi ia dapat dibuka "untuk kepentingan hukum" dan untuk PMKS hanya tertulis di Penjelasan; di kota ia diperkuat dalam aturan P4GN, hilang dalam Perwal 7/2018, dan berhadapan dengan pengumuman pelanggar. *Kategori sasaran*: populasi kunci dalam kerangka kesehatan nasional diganti kategori moral-sosial ("tuna susila", "tuna sosial") di provinsi, lalu "tuna sosial lainnya" tanpa definisi di kota. *Sanksi*: kerangka nasional tidak memuat pidana berbasis status HIV, tetapi daerah menambahkan rehabilitasi wajib berbasis status ODHIV dan pidana kurungan atas kondisi hidup.
-
-**Analisis.** Yang hilang terutama pengaman yang paling dekat dengan persetujuan, kerahasiaan, dan pengakuan; yang ditambahkan adalah kewajiban, pemeriksaan, dan sanksi. Arah ini tidak seragam: non-diskriminasi atas dasar gender dan kerahasiaan asesmen justru ditambahkan atau diperkuat di kota.
+**Apa yang berubah sepanjang cascade?** *Kerahasiaan*: di tingkat nasional ia norma batang tubuh; di provinsi ia dapat dibuka "untuk kepentingan hukum" dan untuk PMKS hanya tertulis di Penjelasan; di kota ia diperkuat dalam aturan P4GN, hilang dalam Perwal 7/2018, dan berhadapan dengan pengumuman pelanggar. *Kategori sasaran*: populasi kunci diganti kategori moral-sosial ("tuna susila", "tuna sosial") di provinsi, lalu "tuna sosial lainnya" tanpa definisi di kota. *Sanksi*: kerangka nasional tidak memuat pidana berbasis status HIV, tetapi daerah menambahkan rehabilitasi wajib berbasis status ODHIV dan pidana atas kondisi hidup. *Analisis.* Yang hilang terutama pengaman yang dekat dengan persetujuan, kerahasiaan, dan pengakuan, tetapi arahnya tidak seragam: kerahasiaan asesmen dan non-diskriminasi atas dasar gender justru diperkuat di kota.
 
 ### 4.2.3 Titik Perubahan Pengaman
 
@@ -233,15 +229,15 @@ Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditamba
 
 Gambar sumber memuat tiga titik di provinsi beserta turunannya di kota; bab ini memetakannya ke label A–D. Banda Aceh tidak memiliki qanun HIV kota lama yang diganti versi baru, sehingga Titik B diisi oleh perpindahan norma provinsi ke kota.
 
-**Titik A: kerangka provinsi yang menyentuh HIV dan penambahan beban (Titik 1 dan 2 gambar sumber).** Tanpa instrumen HIV provinsi, fungsinya dijalankan Qanun Aceh 11/2013 dan 4/2010. Dalam Qanun Aceh 11/2013, kerahasiaan identitas, layanan tanpa diskriminasi, dan pengurangan dampak buruk hanya tertulis di Penjelasan, yang penomorannya pun bergeser kira-kira satu pasal, sedangkan rehabilitasi wajib, kategori "tuna sosial", dan wajib lapor ada di batang tubuh. Qanun Aceh 4/2010 Pasal 29 ayat (6) membolehkan rahasia layanan dibuka "untuk kepentingan hukum dan penelitian". *Analisis.* Di provinsi, pengaman bersifat penjelasan, sedangkan beban bersifat perintah. *Batas klaim.* Pergub pelaksana Qanun Aceh 11/2013 belum ditemukan.
+**Titik A: kerangka provinsi yang menyentuh HIV dan penambahan beban (Titik 1 dan 2 gambar sumber).** Tanpa instrumen HIV provinsi, fungsinya dijalankan Qanun Aceh 11/2013 dan 4/2010. Dalam Qanun Aceh 11/2013, kerahasiaan identitas, layanan tanpa diskriminasi, dan pengurangan dampak buruk hanya tertulis di Penjelasan, yang penomorannya bergeser kira-kira satu pasal, sedangkan rehabilitasi wajib, kategori "tuna sosial", dan wajib lapor ada di batang tubuh. Qanun Aceh 4/2010 Pasal 29 ayat (6) membolehkan rahasia layanan dibuka "untuk kepentingan hukum dan penelitian". *Analisis.* Pengaman bersifat penjelasan, beban bersifat perintah. *Batas klaim.* Pergub pelaksananya belum ditemukan.
 
-**Titik B: dari kesejahteraan sosial provinsi ke penertiban kota.** Dari Qanun Aceh 11/2013 ke Perwal 7/2018, pemulangan diwariskan tanpa syarat persetujuan; "tuna sosial", yang di provinsi memuat ODHIV dan korban NAPZA, menjadi "tuna sosial lainnya" tanpa definisi; kerahasiaan identitas hilang; dan muncul "upaya koersif", meskipun non-diskriminasi diperkuat dengan "gender". Ke Qanun Kota 6/2018, larangan mengorganisasi pengemis tanpa pidana (Pasal 45 ayat (3)) berubah menjadi pidana kurungan bagi individu (Pasal 49 ayat (3)), dan layanan kesehatan bagi orang tanpa tempat tinggal tidak terbawa. *Analisis.* Induk memperlakukan orang tanpa tempat tinggal sebagai sasaran kesejahteraan sosial; turunannya memidanakan kondisi yang sama. *Batas klaim.* Sumber mencatat penjelasan alternatif bahwa keduanya dimaksudkan saling melengkapi.
+**Titik B: dari kesejahteraan sosial provinsi ke penertiban kota.** Ke Perwal 7/2018, pemulangan diwariskan tanpa syarat persetujuan; "tuna sosial", yang di provinsi memuat ODHIV dan korban NAPZA, menjadi "tuna sosial lainnya" tanpa definisi; kerahasiaan identitas hilang; dan muncul "upaya koersif", meskipun non-diskriminasi diperkuat dengan "gender". Ke Qanun Kota 6/2018, larangan mengorganisasi pengemis tanpa pidana (Pasal 45 ayat (3)) menjadi pidana kurungan bagi individu (Pasal 49 ayat (3)), dan layanan kesehatan bagi orang tanpa tempat tinggal tidak terbawa. *Analisis.* Induk memperlakukan orang tanpa tempat tinggal sebagai sasaran kesejahteraan sosial; turunannya memidanakan kondisi yang sama. *Batas klaim.* Sumber mencatat penjelasan alternatif bahwa keduanya dimaksudkan saling melengkapi.
 
-**Titik C: narkotika dan jinayat terhadap layanan HIV dan harm reduction (Titik 3 gambar sumber, ditambah relasi tematik jinayat).** Qanun Aceh 8/2018 menyebut "dampak buruk" tanpa HIV, alat suntik steril, atau terapi rumatan. Qanun Kota 1/2023 memperkuat kerahasiaan asesmen dan melunakkan wajib lapor warga, tetapi menjadikan tes urine beban dan tetap diam tentang harm reduction. Hukum jinayat bukan titik dalam gambar sumber; bab ini menambahkannya sebagai konteks karena ketentuan "menyediakan fasilitas" dan penyitaan benda "patut diduga", yang tidak diubah pada 2025, bersinggungan dengan penjangkauan. *Analisis.* PENASUN dan penjangkau menghadapi dua keluarga aturan tanpa jembatan layanan. *Batas klaim.* Aturan pelaksana P4GN dan Qanun Jinayat belum ditemukan.
+**Titik C: narkotika dan jinayat terhadap layanan HIV dan harm reduction (Titik 3 gambar sumber, ditambah relasi tematik jinayat).** Qanun Aceh 8/2018 menyebut "dampak buruk" tanpa HIV, alat suntik steril, atau terapi rumatan. Qanun Kota 1/2023 memperkuat kerahasiaan asesmen dan melunakkan wajib lapor warga, tetapi menjadikan tes urine beban dan tetap diam tentang harm reduction. Bab ini menambahkan hukum jinayat, yang bukan titik dalam gambar sumber, karena ketentuan "menyediakan fasilitas" dan penyitaan benda "patut diduga" bersinggungan dengan penjangkauan. *Analisis.* PENASUN dan penjangkau menghadapi dua keluarga aturan tanpa jembatan layanan. *Batas klaim.* Aturan pelaksana P4GN dan Qanun Jinayat belum ditemukan.
 
-**Titik D: lapis layanan dan pelaksana kota.** Gambar sumber menunjukkan pengaman nasional (persetujuan, rahasia kesehatan, Lampiran tentang harm reduction dan populasi kunci) tidak dirujuk ke instrumen HIV kota karena instrumen itu belum ditemukan, begitu pula SOP RSS, Perwal sanksi, dan Perwal P4GN. Qanun Kota 2/2021 melindungi anak dengan HIV, tetapi tidak mengatur kerahasiaan status HIV anak atau persetujuan tes remaja. Di luar gambar, sumber mencatat kandidat penyempitan JKA dari "seluruh penduduk Aceh" (Qanun Aceh 4/2010) menjadi peserta awal berbasis desil (Pergub 2/2026 Pasal 7 ayat (1)), yang retrogresinya belum dapat diuji karena Pergub JKA lama belum ditemukan. *Analisis.* Titik D lebih tepat dibaca sebagai kekosongan: kerahasiaan operasional belum dapat dinilai karena lapis layanan dan pelaksananya belum ditemukan.
+**Titik D: lapis layanan dan pelaksana kota.** Gambar sumber menunjukkan pengaman nasional (persetujuan, rahasia kesehatan, Lampiran tentang harm reduction dan populasi kunci) tidak dirujuk ke instrumen HIV kota karena instrumen itu belum ditemukan, begitu pula SOP RSS, Perwal sanksi, dan Perwal P4GN. Qanun Kota 2/2021 melindungi anak dengan HIV, tetapi tidak mengatur kerahasiaan status HIV anak atau persetujuan tes remaja. Di luar gambar, sumber mencatat kandidat penyempitan JKA dari "seluruh penduduk Aceh" menjadi peserta awal berbasis desil (Pergub 2/2026 Pasal 7 ayat (1)). *Analisis.* Titik D lebih tepat dibaca sebagai kekosongan: kerahasiaan operasional belum dapat dinilai. *Batas klaim.* Retrogresi JKA belum dapat diuji karena Pergub JKA lama belum ditemukan.
 
-**Sintesis.** Titik A menempatkan pengaman provinsi di Penjelasan dan beban di batang tubuh; Titik B menghilangkan kerahasiaan dan menambah pidana ketika norma berpindah ke aturan penertiban kota; Titik C memperkuat kerahasiaan tetapi membiarkan harm reduction diam; Titik D menunjukkan kekosongan lapis layanan kota. Tidak satu pun titik dapat disebut kemunduran final sebelum dokumen dasar ditemukan dan telaah manusia dilakukan.
+**Sintesis.** Titik A menempatkan pengaman provinsi di Penjelasan; Titik B menghilangkan kerahasiaan dan menambah pidana di aturan penertiban kota; Titik C memperkuat kerahasiaan tetapi membiarkan harm reduction diam; Titik D menunjukkan kekosongan lapis layanan kota. Tidak satu pun dapat disebut kemunduran final sebelum dokumen dasar ditemukan dan telaah manusia dilakukan.
 
 ### 4.2.4 Ketegangan Internal, Horizontal, dan Vertikal
 
@@ -255,7 +251,7 @@ Contoh paling material:
 
 **C. Vertikal.** Qanun Aceh 11/2013 Pasal 46 ↔ Qanun Kota 6/2018 Pasal 49 ayat (3) → sasaran kesejahteraan sosial menjadi subjek pidana kurungan → H1, H4, H6; orang tanpa tempat tinggal, termasuk TG dan PSP → **kandidat ketegangan**. Laporan sumber menilai ketegangan ini, bersama cakupan "tuna sosial lainnya", paling perlu diuji lebih dulu.
 
-**C. Vertikal (diperbarui pemutakhiran).** Qanun Kota 2/2021 (diversi) ↔ Qanun Aceh 6/2014 jo. 12/2025 Pasal 67 dan UU SPPA → tabel ketegangan sumber masih menyebut *'uqubat* bagi anak 12–18 tahun, padahal Pasal 67 kini hanya mengatur anak 16 sampai di bawah 18 tahun; telaah berbantuan AI (bukan pendapat ahli) mendukung tafsir bahwa anak 12–15 tahun diproses menurut UU SPPA, tetapi menemukan celah pada jenis sanksi bagi anak 14–15 tahun dan pada definisi anak "belum 18 tahun dan belum menikah", yang dapat membuat anak yang dinikahkan diperlakukan sebagai dewasa → H6; anak → **kandidat ketegangan; telaah ahli belum dilakukan**.
+**C. Vertikal (diperbarui pemutakhiran).** Qanun Kota 2/2021 (diversi) ↔ Qanun Aceh 6/2014 jo. 12/2025 Pasal 67 dan UU SPPA → tabel sumber masih menyebut *'uqubat* bagi anak 12–18 tahun, padahal Pasal 67 kini hanya mengatur anak 16 sampai di bawah 18 tahun; telaah berbantuan AI (bukan pendapat ahli) menemukan celah pada jenis sanksi bagi anak 14–15 tahun dan pada definisi anak "belum 18 tahun dan belum menikah", yang dapat membuat anak yang dinikahkan diperlakukan sebagai dewasa → H6; anak → **kandidat ketegangan; telaah ahli belum dilakukan**.
 
 **Lintas rezim.** Qanun Aceh 6/2014 Pasal 63 dan Qanun Aceh 7/2013 Pasal 261–264 ↔ Permenkes 3/2026 Pasal 2 huruf d dan Lampiran Permenkes 23/2022 → pidana syariat dan eksekusi terbuka berhadapan dengan penghapusan stigma → H2, H6; LSL, TG → **kandidat**. Pembacaan Qanun 12/2025 yang disyaratkan sumber sudah dilakukan dan Pasal 63 tidak diubah; yang tersisa adalah uji kewenangan terhadap UU 11/2006.
 
@@ -279,7 +275,7 @@ Contoh paling material:
 
 *Sumber: diolah dari laporan sumber Kota Banda Aceh, bagian 1.4 dan 8. Klasifikasi arah mengikuti laporan sumber.*
 
-**Analisis.** Ketegangan internal paling dekat dengan teks dan dapat dikenali dengan membaca ulang pasal. Ketegangan horizontal memerlukan bukti praktik tentang bagaimana aturan jinayat dan kesejahteraan sosial dijalankan bersama layanan HIV. Ketegangan vertikal dan lintas rezim memerlukan telaah hukum, termasuk uji kewenangan kekhususan Aceh. Karena laporan sumber hanya mendukung status kandidat, tidak satu pun pasangan disebut "bertentangan secara hukum".
+**Analisis.** Ketegangan internal dapat dikenali dengan membaca ulang pasal; ketegangan horizontal memerlukan bukti praktik; ketegangan vertikal dan lintas rezim memerlukan telaah hukum, termasuk uji kewenangan kekhususan Aceh. Karena sumber hanya mendukung status kandidat, tidak satu pun pasangan disebut "bertentangan secara hukum".
 
 ### 4.2.5 Dasar Hukum Usang dan Transisi Kerangka Nasional
 
@@ -305,7 +301,7 @@ Empat hal membatasi penilaian. *Pertama, kekhususan Aceh.* UU 11/2006 belum dite
 
 *Pengaman yang menyempit atau tidak terbawa.* Kerahasiaan identitas dan layanan kesehatan bagi orang tanpa tempat tinggal tidak terbawa ke aturan penertiban kota, dan di provinsi pengaman utama hanya tertulis di Penjelasan. Harm reduction tidak diatur, TG tidak diakui, dan konseling, notifikasi pasangan, forum komunitas, serta kanal pengaduan tidak ditemukan.
 
-*Pembebanan yang ditambahkan di daerah.* Di provinsi: rehabilitasi wajib ODHIV, wajib lapor kepada aparat termasuk WH, pembukaan rahasia "untuk kepentingan hukum", serta pidana *liwath* dan penyediaan fasilitas yang tidak diubah pada 2025. Di kota: pidana kurungan atas kondisi hidup, pengumuman pelanggar dan penahanan KTP, upaya koersif dan pemulangan, serta tes urine sebagai syarat kerja.
+*Pembebanan yang ditambahkan di daerah.* Di provinsi: rehabilitasi wajib ODHIV, wajib lapor kepada aparat termasuk WH, pembukaan rahasia "untuk kepentingan hukum", serta pidana *liwath* dan penyediaan fasilitas. Di kota: pidana atas kondisi hidup, pengumuman pelanggar dan penahanan KTP, upaya koersif dan pemulangan, serta tes urine sebagai syarat kerja.
 
 *Titik ketegangan.* Ketegangan internal terkuat ada di Perwal 7/2018, Qanun Aceh 11/2013, dan Qanun Kota 1/2023; ketegangan horizontal di antara aturan jinayat dan kesejahteraan sosial provinsi dan layanan HIV; ketegangan vertikal terutama antara Qanun Kesejahteraan Sosial dan Qanun Trantibum. Semuanya kandidat.
 
