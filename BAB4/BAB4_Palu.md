@@ -301,15 +301,15 @@ Kategori arah: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daera
 
 *Pertama, hubungan kota–provinsi bersifat tematik.* Uji kepatuhan delegasi tidak dapat dilakukan, dan sejauh mana setiap norma provinsi mengikat fasilitas kesehatan kota tidak dirinci. *Kedua, ruang pidana dalam Perda.* UU 23/2014 Pasal 238 membolehkan pidana kurungan paling lama enam bulan atau denda paling banyak Rp50 juta; ancaman dalam ketiga Perda berada dalam batas angka itu. Yang dipersoalkan adalah objek yang dipidana; laporan sumber juga mencatat bahwa tafsir Permenkes 3/2026 Pasal 31 huruf a perlu klarifikasi karena berisiko dikutip sebagai dasar pidana penularan. *Ketiga, tafsir persetujuan tes.* Apakah tes HIV diagnostik termasuk tindakan perseorangan (Pasal 293) atau pelayanan kesehatan masyarakat (Pasal 295) belum diputuskan, sehingga kedudukan tes wajib kota dan KT "patut diduga" provinsi belum dapat disimpulkan. *Keempat, ruang daerah dalam kerahasiaan.* Laporan sumber mencatat posisi bahwa Perda tidak dapat menambah pengecualian UU 17/2023 Pasal 4 ayat (4) dan PP 28/2024 Pasal 735 ayat (2); apakah "jika membahayakan orang lain" dan "kepentingan umum" berada di luar daftar nasional memerlukan telaah. *Kelima, kelembagaan.* Pemegang fungsi koordinasi HIV setelah KPA Nasional berakhir belum jelas, peran kota menurut Perda Sulteng 1/2024 Pasal 23 ayat (2) tidak dapat dinilai, dan kewenangan penertiban tidak dapat dinilai karena aturannya belum ditemukan.
 
-**Analisis.** Karena itu, ketegangan vertikal dalam subbab 4.2.4 dibaca sebagai kandidat yang memerlukan telaah kewenangan dan tafsir lebih lanjut. Bab ini tidak menyatakan bahwa norma tertentu "melampaui kewenangan".
+**Analisis.** Ketegangan vertikal dalam subbab 4.2.4 karena itu dibaca sebagai kandidat yang memerlukan telaah lebih lanjut; bab ini tidak menyatakan bahwa norma tertentu "melampaui kewenangan".
 
 ### 4.2.7 Sintesis Interaksi Regulasi
 
 *Pengaman yang masih terlihat kuat.* Di kota: harm reduction, persetujuan dan konseling, kewajiban rahasia, notifikasi pasangan dengan persetujuan, larangan PHK, dan larangan eksklusi peserta didik. Di provinsi: rahasia selamanya, hak menolak pembukaan, dan pengakuan waria. Sebagian pengaman ini kini lebih eksplisit daripada rujukan nasional yang tersisa.
 
-*Pengaman yang menyempit atau tidak terbawa.* Pengakuan waria tidak terbawa ke kota, harm reduction tidak terbawa ke rencana aksi narkotika, kursi komunitas tidak diatur, dan kanal pengaduan belum ditemukan.
+*Pengaman yang menyempit atau tidak terbawa.* Pengakuan waria tidak sampai ke kota, harm reduction tidak masuk rencana aksi narkotika, kursi komunitas tidak diatur, dan kanal pengaduan belum ditemukan.
 
-*Pembebanan yang ditambahkan di daerah.* Kota menambahkan tes wajib, pengecualian rahasia, pelaporan, pemeriksaan karyawan, dan pidana berbasis status; provinsi menambahkan pidana bagi ODHIV, KT "patut diduga", pengecualian rahasia yang luas, serta penindakan dan razia sekolah.
+*Pembebanan yang ditambahkan di daerah.* Kota menambahkan tes wajib, pengecualian rahasia, pelaporan, pemeriksaan karyawan, dan pidana berbasis status; provinsi menambahkan pidana, KT "patut diduga", pengecualian rahasia yang luas, serta penindakan dan razia sekolah.
 
 *Titik ketegangan dan yang belum dapat diputuskan.* Ketegangan terletak di dalam Perda Palu 1/2018, di antara dua Perda provinsi tentang kerahasiaan, antara Perda HIV provinsi dan RAD P4GN, serta antara norma tes daerah dan UU 17/2023; semuanya kandidat. Tanpa dokumen pelaksana, tafsir Pasal 293 terhadap Pasal 295, dan data R-2 sampai R-5, tidak satu pun dapat diputuskan sebagai pertentangan hukum atau dampak yang telah terjadi.
 
@@ -322,5 +322,5 @@ Temuan regulasi ini selanjutnya dipertemukan dengan temuan survei, kualitatif, o
 > - **Status verifikasi.** Tidak satu pun dari enam instrumen daerah terkonfirmasi sumber resmi; semuanya BELUM_TERVERIFIKASI, dan tiga belum diperiksa sama sekali. Laporan sumber adalah draf analitik berbantuan mesin yang belum ditelaah manusia.
 > - **Keterbatasan korpus.** Aturan ketertiban, peraturan pelaksana kota dan provinsi, RAD P4GN pengganti, dan pedoman teknis HIV nasional belum ditemukan di folder. Belum ditemukan tidak sama dengan tidak diatur.
 > - **Belum ada bukti R-2 s.d. R-5.** Tidak ada dokumen operasional, data perkara, kesaksian, atau pengaduan; semua akibat adalah risiko yang perlu dibuktikan.
-> - **Teks tidak sama dengan praktik.** Pasal yang membebani belum tentu ditegakkan. Semua ketegangan berstatus kandidat; 19 dari 34 kandidat isu perlu telaah manusia, dan tidak ada rating keparahan final.
-> - **Perlu triangulasi di BAB 5.** Temuan normatif harus diuji dengan survei, data kualitatif, observasi layanan, dan pengaduan sebelum menjadi kesimpulan tentang dampak.
+> - **Teks tidak sama dengan praktik.** Pasal yang membebani belum tentu ditegakkan; semua ketegangan berstatus kandidat tanpa rating keparahan final.
+> - **Perlu triangulasi di BAB 5.** Temuan normatif diuji dengan survei, data kualitatif, observasi, dan pengaduan.
