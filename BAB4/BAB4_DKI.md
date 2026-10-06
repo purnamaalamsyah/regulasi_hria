@@ -4,7 +4,7 @@ Bab ini mendiagnosis bagaimana regulasi yang berlaku di wilayah kota administras
 
 Menurut laporan sumber, DKI Jakarta adalah provinsi yang memegang urusan kabupaten/kota sekaligus. Kota administrasi, misalnya Jakarta Barat, bukan daerah otonom; wali kota, camat, dan lurah adalah perangkat Pemerintah Provinsi (Pemprov). Seluruh instrumen hukum dalam paket kajian ditetapkan di tingkat provinsi, dan norma provinsi itulah yang bekerja langsung di wilayah kota administrasi. Laporan sumber membedakan lapis "Provinsi" (Peraturan Daerah/Perda, Peraturan Gubernur/Pergub, Keputusan Gubernur/Kepgub) dan lapis "Kota Administrasi/pelaksana" (Surat Edaran Wali Kota, satuan pelaksana kelurahan, dan Komisi Penanggulangan AIDS/KPA kota yang dahulu ada). Bab ini mengikuti pembagian itu dan memakai kerangka nasional sebagai pembanding normatif.
 
-Dalam Human Rights Impact Assessment (HRIA), satu pasal dapat membuka akses layanan, sementara pasal lain dapat membuat orang enggan datang ke layanan yang sama. Dalam Regulatory Impact Assessment (RIA), pertanyaannya adalah apakah pengaman nasional terbawa ke daerah, menyempit, hilang, atau ditambah beban baru. Keduanya dibaca dengan satu rantai: instrumen, pasal, siapa yang terpapar, hak yang disentuh, mekanisme, hubungan dengan aturan lain, status bukti, dan batas klaim.
+Dalam Human Rights Impact Assessment (HRIA), satu pasal dapat membuka akses layanan, sementara pasal lain membuat orang enggan datang. Dalam Regulatory Impact Assessment (RIA), pertanyaannya adalah apakah pengaman nasional terbawa ke daerah, menyempit, hilang, atau ditambah beban. Keduanya dibaca dengan satu rantai: instrumen, pasal, siapa yang terpapar, hak yang disentuh, mekanisme, hubungan dengan aturan lain, status bukti, dan batas klaim.
 
 Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya berstatus *draf analitik berbantuan mesin yang belum ditelaah manusia*, dan belum ada data penegakan (R-2), dokumen pelaksana (R-3), kesaksian (R-4), maupun pengaduan (R-5). Bab ini memakai empat tingkat bahasa: *Isi aturan* (yang tertulis), *Analisis* (arti normatif yang diturunkan dari teks), *Risiko yang perlu dibuktikan* (akibat yang masuk akal tetapi belum didukung data), dan *Belum dapat dinilai* (dokumen atau bukti belum tersedia). Dampak aktual diuji kemudian di BAB 5.
 
@@ -35,7 +35,7 @@ Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya berst
 | RAD 2022–2025 | Provinsi (dokumen Dinkes) | Rencana aksi | Rancangan; BELUM_TERVERIFIKASI | Skrining WBP dan ibu hamil; NIK di SIHA |
 | Pergub 183/2012 | Provinsi; pelaksana kelurahan | PABM | Berlaku; STALE-CANDIDATE | Rujukan penasun; abstinensia; pendataan |
 | Perda 3/2026 | Provinsi | Fasilitasi P4GN | Berlaku (terkonfirmasi) sejak 10-07-2026 | Skrining rahasia; tes urine, pelaporan "indikasi" |
-| Kepgub 625/2020 jo. 483/2021 | Provinsi | Tim Terpadu P4GN | BELUM_TERVERIFIKASI; teks 2020 tidak terbaca | Kesinambungan belum ditelusuri |
+| Kepgub 625/2020 jo. 483/2021 | Provinsi | Tim Terpadu P4GN | BELUM_TERVERIFIKASI | Teks 2020 tidak terbaca; kesinambungan belum ditelusuri |
 | Perda 8/2007 | Provinsi | Ketertiban umum | Berlaku; STALE-CANDIDATE | Pidana penjaja seks, bangunan "asusila" |
 | Perda 8/2011 | Provinsi | Perempuan dan anak | Berlaku; STALE-CANDIDATE | Kerahasiaan korban; perempuan biologis |
 | SE Wali Kota Jakarta Barat 2023 | Kota administrasi | Sosialisasi HIV | BELUM_TERVERIFIKASI | Anjuran tanpa anggaran |

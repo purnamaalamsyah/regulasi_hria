@@ -6,7 +6,7 @@ Kota Palu tidak diatur hanya oleh peraturan kota. Peraturan Daerah (Perda) dan P
 
 Dalam *Human Rights Impact Assessment* (HRIA), regulasi adalah jalur utama negara memengaruhi pemenuhan hak: satu pasal dapat membuka akses layanan, sementara pasal lain dapat membuat orang enggan datang. Dalam *Regulatory Impact Assessment* (RIA), pertanyaannya adalah apakah pengaman nasional terbawa ke daerah, menyempit, hilang, atau disertai beban baru. Bab ini memakai satu rantai untuk keduanya: instrumen, pasal, siapa yang terpapar, hak, mekanisme, hubungan dengan aturan lain, status bukti, dan batas klaim.
 
-Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya adalah *draf analitik berbantuan mesin yang belum ditelaah manusia*, dan belum ada dokumen operasional (R-2), data administratif dan perkara (R-3), kesaksian (R-4), maupun pengaduan (R-5). Bab ini memakai empat tingkat bahasa: *Isi aturan* (apa yang tertulis), *Analisis* (arti normatif yang diturunkan dari teks), *Risiko yang perlu dibuktikan* (akibat yang masuk akal tetapi belum didukung data), dan *Belum dapat dinilai* (dokumen, status hukum, atau bukti belum tersedia). Dampak aktual diuji dengan bukti pelaksanaan, layanan, kesaksian, dan pengaduan di BAB 5.
+Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya adalah *draf analitik berbantuan mesin yang belum ditelaah manusia*, dan belum ada dokumen operasional (R-2), data administratif dan perkara (R-3), kesaksian (R-4), maupun pengaduan (R-5). Bab ini memakai empat tingkat bahasa: *Isi aturan* (apa yang tertulis), *Analisis* (arti normatif dari teks), *Risiko yang perlu dibuktikan* (akibat yang masuk akal tetapi belum didukung data), dan *Belum dapat dinilai* (dokumen, status hukum, atau bukti belum tersedia). Dampak aktual diuji dengan bukti pelaksanaan, layanan, kesaksian, dan pengaduan di BAB 5.
 
 ## 4.1 Pemetaan Regulasi dan Dampaknya terhadap Hak Asasi Manusia
 
@@ -92,7 +92,7 @@ Analisis ini berbasis teks regulasi (tingkat bukti R-1). Laporan sumbernya adala
 
 ### 4.1.4 Distribusi Dampak terhadap Lima Kelompok Kunci
 
-**Temuan utama.** PSP paling konsisten muncul sebagai objek kewajiban dan pelaporan, dengan istilah stigmatis. TG diakui di provinsi tetapi hilang ketika turun ke kota. ODHIV dilindungi kerahasiaan dan larangan PHK, tetapi dibebani pidana berbasis status di kedua tingkat. PENASUN berada di persimpangan aturan HIV dan rencana aksi narkotika tanpa penghubung di antara keduanya.
+**Temuan utama.** PSP paling konsisten muncul sebagai objek kewajiban dan pelaporan, dengan istilah stigmatis. TG diakui di provinsi tetapi hilang ketika turun ke kota. ODHIV dilindungi kerahasiaan dan larangan PHK, tetapi dibebani pidana berbasis status di kedua tingkat. PENASUN berada di persimpangan aturan HIV dan rencana aksi narkotika tanpa penghubung.
 
 Laporan sumber memakai empat uji: pengakuan, cakupan manfaat, asimetri penegakan, dan kelompok tidak terlihat. Hitungan instrumen yang menyebut setiap kelompok (ODHIV 6, PSP 5, LSL 5, TG 5, PENASUN 5) bukan prevalensi atau ukuran dampak.
 
@@ -106,7 +106,7 @@ Laporan sumber memakai empat uji: pengakuan, cakupan manfaat, asimetri penegakan
 
 **PENASUN.** *Isi aturan.* Disebut sebagai "pengguna Napza suntik" (Pasal 1 angka 12) dan menjadi sasaran harm reduction di kota (Pasal 3) dan provinsi (Pasal 5), tetapi juga dikenai VCT wajib, wajib lapor dan "penindakan (represif)" (Pergub 2/2019), serta pelaporan dugaan tindak pidana pasien (Perda Sulteng 1/2024 Pasal 208). *Analisis.* Orang yang sama menjadi penerima layanan dalam satu aturan dan sasaran penindakan dalam aturan lain. *Belum dapat disimpulkan:* data layanan alat suntik steril (LASS) dan terapi rumatan metadon (PTRM), serta rujukan Institusi Penerima Wajib Lapor (IPWL) ke layanan HIV.
 
-Kelompok beririsan juga disebut: warga binaan pemasyarakatan (WBP) dan anak jalanan sebagai sasaran VCT wajib, peserta didik, serta orang miskin dan migran yang terkena syarat identitas JKN.
+Teks juga menyebut warga binaan pemasyarakatan (WBP) dan anak jalanan sebagai sasaran VCT wajib, serta orang miskin dan migran yang terkena syarat identitas JKN.
 
 **Exhibit 4.3. Matriks lima kelompok kunci: pengakuan × pembebanan × regulatory silence**
 
@@ -124,7 +124,7 @@ Kelompok beririsan juga disebut: warga binaan pemasyarakatan (WBP) dan anak jala
 
 **Temuan utama.** Teks Palu kuat pada ketersediaan layanan, tetapi tipis pada keberterimaan (persetujuan dan kerahasiaan) dan akses fisik. Dari sisi tata kelola, yang paling tipis adalah negara hukum dan partisipasi.
 
-**AAAQ** membaca layanan: ketersediaan (*availability*), keterjangkauan (*accessibility*; dipecah menjadi akses nondiskriminatif, ekonomi, fisik, dan informasi), keberterimaan (*acceptability*), dan mutu (*quality*). **PANTHER** membaca tata kelola: partisipasi, akuntabilitas, nondiskriminasi, transparansi, martabat manusia, pemberdayaan, dan negara hukum. Keduanya hanya mencatat keberadaan dimensi dalam teks, tidak dijumlahkan, dan tidak menghasilkan skor.
+**AAAQ** membaca layanan: ketersediaan (*availability*), keterjangkauan (*accessibility*: nondiskriminatif, ekonomi, fisik, informasi), keberterimaan (*acceptability*), dan mutu (*quality*). **PANTHER** membaca tata kelola: partisipasi, akuntabilitas, nondiskriminasi, transparansi, martabat manusia, pemberdayaan, dan negara hukum. Keduanya hanya mencatat keberadaan dimensi dalam teks dan tidak dijumlahkan menjadi skor.
 
 *Layanan tersedia tidak otomatis terjangkau.* Ketersediaan jelas: ARV, IMS, jarum suntik steril, metadon, APBD, dan pembiayaan kesehatan menuju 10% APBD (Perda SKD Pasal 15 ayat (3)). Namun, akses fisik tidak ditopang norma apa pun dan justru dibatasi tes di tempat yang ditunjuk. Keterjangkauan ekonomi ditopang rumusan "terjangkau oleh seluruh lapisan masyarakat" (Pasal 7 ayat (2)), tetapi biaya lanjutan ditanggung penerima tanpa jaminan. Akses nondiskriminatif dibatasi tes wajib, dan akses informasi dibatasi kewajiban promosi menghormati norma agama.
 
@@ -152,7 +152,7 @@ Kedua lensa menunjukkan pola yang sama: Perda HIV kota sekaligus menjadi sumber 
 
 **6. Beban administratif dan persyaratan akses.** *Norma:* di kota, tes hanya di tempat yang ditunjuk, laporan data karyawan, pemeriksaan IMS, dan syarat pelatihan bagi calon penjangkau; di provinsi, pengobatan setelah KT, identitas JKN, biaya lanjutan, dan wajib lapor. *Terkena:* "Kelompok Rawan", karyawan, orang miskin, migran, PENASUN, TG. *Hak:* H1, H3, H4. *Mekanisme:* setiap syarat menambah titik pencatatan identitas atau status. *Bukti dibutuhkan:* kunjungan dan layanan per kelompok.
 
-**7. Regulatory silence.** *Norma:* waria tidak masuk definisi sasaran kota; status HIV dan SOGI tidak masuk definisi diskriminasi; kanal pengaduan dan pernyataan bebas tarif belum ditemukan. *Terkena:* TG, LSL, ODHIV. *Hak:* H1, H2, H6. *Mekanisme:* tanpa pengakuan tertulis, program, indikator, dan anggaran dapat tidak menjangkau kelompok yang tidak disebut. *Bukti dibutuhkan:* program dan anggaran Dinas Kesehatan; data terpilah identitas gender.
+**7. Regulatory silence.** *Norma:* waria tidak masuk definisi sasaran kota; status HIV dan SOGI tidak masuk definisi diskriminasi; kanal pengaduan dan pernyataan bebas tarif belum ditemukan. *Terkena:* TG, LSL, ODHIV. *Hak:* H1, H2, H6. *Mekanisme:* program, indikator, dan anggaran dapat tidak menjangkau kelompok yang tidak disebut. *Bukti dibutuhkan:* program dan anggaran Dinas Kesehatan.
 
 **8. Hilangnya pengaman antarinstrumen.** *Norma:* pengakuan waria tidak terbawa dari Perda Sulteng 3/2014 ke Perda Palu 1/2018; harm reduction tidak terbawa ke Pergub 2/2019; fasilitasi populasi kunci oleh KPAP tidak muncul sebagai fungsi KPA kota. Karena tidak ada Perda HIV kota lama dalam korpus, pengaman hilang antarinstrumen, bukan antarversi. *Terkena:* TG, PENASUN, komunitas. *Hak:* H1, H2, H7. *Mekanisme:* pengaman provinsi tidak menjadi dasar program kota. *Bukti dibutuhkan:* dokumen program kota dan RAD pengganti.
 
@@ -195,9 +195,7 @@ Pertanyaan berikutnya bukan lagi semata-mata apa yang tertulis, tetapi bagaimana
 
 ### 4.2.1 Arsitektur Cascading Nasional → Provinsi → Kota
 
-**Temuan utama.** Rantai regulasi Palu terputus di dua titik: tidak ada relasi teks dari Perda HIV kota ke Perda HIV provinsi, dan semua delegasi ke peraturan kepala daerah belum memiliki turunan di folder. Kerangka nasional 2022–2026 hanya terhubung secara tekstual ke Perda Sulteng 1/2024.
-
-Tidak semua hubungan adalah "turunan". Laporan sumber membedakan:
+**Temuan utama.** Rantai regulasi Palu terputus di dua titik: tidak ada relasi teks dari Perda HIV kota ke Perda HIV provinsi, dan semua delegasi ke peraturan kepala daerah belum memiliki turunan di folder. Kerangka nasional 2022–2026 hanya terhubung secara tekstual ke Perda Sulteng 1/2024. Tidak semua hubungan adalah "turunan"; laporan sumber membedakan:
 
 - **Delegasi dan aturan pelaksana**: Permenkes 3/2026 Pasal 96 huruf a (pedoman teknis HIV); Perda Palu 1/2018 Pasal 20 ayat (7) dan Pasal 21 ayat (2) (KPA); Perda SKD (tujuh Peraturan Kepala Daerah); Perda Sulteng 3/2014 (tiga Pergub); Perda Sulteng 1/2024 (Pergub, tenggat satu tahun menurut Pasal 223). Tidak satu pun aturan pelaksananya ditemukan.
 - **Rujukan dasar hukum**: Perda Palu 1/2018 ke UUD 1945 dan UU 23/2014 jo. UU 9/2015; Perda Sulteng 3/2014, Perda SKD, dan lampiran Pergub 2/2019 ke UU 36/2009; Perda Sulteng 1/2024 ke UU 17/2023.
@@ -244,7 +242,7 @@ Kategori arah: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daera
 
 **Titik A: kerangka HIV provinsi dan lapis kerahasiaan kedua (titik 3 sumber).** Perda Sulteng 3/2014 memuat rahasia selamanya dan hak menolak pembukaan, tetapi juga pembukaan untuk aparat, "kepentingan umum" yang luas, KT "patut diduga", rehabilitasi "koersif", dan pidana. Perda Sulteng 1/2024 kemudian mengimpor pengecualian UU 17/2023 (Pasal 5 ayat (4)), menambah pelaporan dugaan pidana pasien (Pasal 208), dan melonggarkan persetujuan untuk program pemerintah (Pasal 203 ayat (1)), tanpa menyelaraskan Perda 3/2014; unsur ini satu-satunya unsur warisan yang ditandai kandidat bertentangan. *Analisis.* Beban provinsi datang dari teks Perda HIV sendiri dan dari Perda kesehatan umum yang lebih baru, bukan dari aturan pelaksana. *Batas klaim.* Status Perda Sulteng 1/2024 belum diperiksa.
 
-**Titik B: dari Perda HIV provinsi ke Perda HIV kota (titik 1 sumber).** Yang diwariskan: harm reduction, larangan PHK dan eksklusi (lebih rinci di kota), APBD, dan sanksi administratif bertahap. Yang berubah: waria hilang dari definisi sasaran; tes bergerak ke arah tes wajib; daftar pengecualian rahasia berbeda; subjek pidana menyempit dan ancamannya lebih ringan; kewajiban usaha diperkuat tanpa pengaman; fungsi KPA bagi populasi kunci menyempit. *Analisis.* Perubahan tidak searah: kota lebih protektif di bidang kerja dan sekolah, tetapi lebih membatasi dalam tes dan pengakuan TG. *Batas klaim.* Ini perbandingan tematik, bukan uji delegasi.
+**Titik B: dari Perda HIV provinsi ke Perda HIV kota (titik 1 sumber).** Yang diwariskan: harm reduction, larangan PHK dan eksklusi, APBD, dan sanksi administratif bertahap. Yang berubah: waria hilang dari definisi sasaran; tes bergerak ke arah tes wajib; daftar pengecualian rahasia berbeda; subjek pidana menyempit dan ancamannya lebih ringan; kewajiban usaha diperkuat tanpa pengaman; fungsi KPA bagi populasi kunci menyempit. *Analisis.* Perubahan tidak searah: kota lebih protektif di bidang kerja dan sekolah, tetapi lebih membatasi dalam tes dan pengakuan TG. *Batas klaim.* Ini perbandingan tematik, bukan uji delegasi.
 
 **Titik C: batas keluarga aturan HIV dan narkotika (titik 2 sumber).** RAD P4GN 2019–2021 mengakui risiko HIV pada pengguna napza suntik, tetapi tidak memuat LASS atau PTRM, dan justru memuat penindakan, wajib lapor, serta razia sekolah. *Analisis.* PENASUN menghadapi dua keluarga aturan tanpa jembatan layanan; sisi ketertiban titik ini tidak dapat dibaca. *Batas klaim.* Periode RAD sudah lewat, tetapi sumber sekunder mencatatnya "Berlaku"; RAD pengganti belum ditemukan.
 
@@ -299,7 +297,7 @@ Kategori arah: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daera
 
 ### 4.2.6 Batas Penilaian Kewenangan Kota Palu
 
-**Temuan utama.** Beberapa ketegangan paling material menyentuh pertanyaan kewenangan dan tafsir. Laporan sumber belum melakukan uji kewenangan pasal per pasal, sehingga norma-norma itu memerlukan telaah kewenangan lebih lanjut.
+**Temuan utama.** Beberapa ketegangan paling material menyentuh pertanyaan kewenangan dan tafsir yang belum diuji pasal per pasal oleh laporan sumber; norma-norma itu memerlukan telaah kewenangan lebih lanjut.
 
 *Pertama, hubungan kota–provinsi bersifat tematik.* Uji kepatuhan delegasi tidak dapat dilakukan, dan sejauh mana setiap norma provinsi mengikat fasilitas kesehatan kota tidak dirinci. *Kedua, ruang pidana dalam Perda.* UU 23/2014 Pasal 238 membolehkan pidana kurungan paling lama enam bulan atau denda paling banyak Rp50 juta; ancaman dalam ketiga Perda berada dalam batas angka itu. Yang dipersoalkan adalah objek yang dipidana; laporan sumber juga mencatat bahwa tafsir Permenkes 3/2026 Pasal 31 huruf a perlu klarifikasi karena berisiko dikutip sebagai dasar pidana penularan. *Ketiga, tafsir persetujuan tes.* Apakah tes HIV diagnostik termasuk tindakan perseorangan (Pasal 293) atau pelayanan kesehatan masyarakat (Pasal 295) belum diputuskan; sampai jelas, kedudukan tes wajib kota dan KT "patut diduga" provinsi belum dapat disimpulkan. *Keempat, ruang daerah dalam kerahasiaan.* Laporan sumber mencatat posisi bahwa Perda tidak dapat menambah pengecualian UU 17/2023 Pasal 4 ayat (4) dan PP 28/2024 Pasal 735 ayat (2); apakah "jika membahayakan orang lain" dan "kepentingan umum" berada di luar daftar nasional memerlukan telaah. *Kelima, kelembagaan.* Pemegang fungsi koordinasi HIV setelah KPA Nasional berakhir belum jelas, peran kota menurut Perda Sulteng 1/2024 Pasal 23 ayat (2) tidak dapat dinilai, dan kewenangan penertiban tidak dapat dinilai karena aturannya belum ditemukan.
 
@@ -315,7 +313,7 @@ Kategori arah: **Dipertahankan**, **Menyempit**, **Hilang**, **Ditambah di daera
 
 *Titik ketegangan dan yang belum dapat diputuskan.* Ketegangan terletak di dalam Perda Palu 1/2018, di antara dua Perda provinsi tentang kerahasiaan, antara Perda HIV provinsi dan RAD P4GN, serta antara norma tes daerah dan UU 17/2023; semuanya kandidat. Tanpa aturan ketertiban, Keputusan dan Peraturan Wali Kota tentang KPA, SOP, tafsir Pasal 293 terhadap Pasal 295, dan data R-2 sampai R-5, tidak satu pun dapat diputuskan sebagai pertentangan hukum atau dampak yang telah terjadi.
 
-**Pesan utama.** Arsitektur regulasi Kota Palu tidak menunjukkan satu arah tunggal. Perda HIV kota yang sama memuat harm reduction, persetujuan, kerahasiaan, dan larangan PHK, sekaligus tes wajib, pelaporan data, dan pidana berbasis status. Lapisan kota, provinsi, dan nasional tidak membawa pengaman secara konsisten: pengakuan TG dan harm reduction tidak terbawa melintasi tingkat dan keluarga aturan, sedangkan pengecualian kerahasiaan bertambah di setiap lapis. Pola khas Palu adalah pengaman yang ditulis lalu dikecualikan. Pola ini adalah temuan normatif dan kandidat ketegangan, belum bukti dampak.
+**Pesan utama.** Arsitektur regulasi Kota Palu tidak menunjukkan satu arah tunggal. Perda HIV kota yang sama memuat harm reduction, persetujuan, kerahasiaan, dan larangan PHK, sekaligus tes wajib, pelaporan data, dan pidana berbasis status. Lapisan kota, provinsi, dan nasional tidak membawa pengaman secara konsisten: pengakuan TG dan harm reduction tidak terbawa melintasi tingkat dan keluarga aturan, sedangkan pengecualian kerahasiaan bertambah di setiap lapis; pola khasnya adalah pengaman yang ditulis lalu dikecualikan. Pola ini adalah temuan normatif dan kandidat ketegangan, belum bukti dampak.
 
 Temuan regulasi ini selanjutnya dipertemukan dengan temuan survei, kualitatif, observasi layanan, dan bukti lain dalam BAB 5. Implikasi reformasi regulatif dibahas dalam BAB 6.
 
