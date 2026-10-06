@@ -106,11 +106,11 @@ Kelompok beririsan juga tersentuh: perempuan dengan HIV (pembukaan status tanpa 
 
 | Kelompok | Pengakuan dalam teks | Pembebanan utama | Regulatory silence / celah | Belum dapat disimpulkan |
 |---|---|---|---|---|
-| ODHIV | Pemegang hak di tiga instrumen | Pidana status, "mandatory test" (Prov Ps 9, 10, 20); syarat PMO/RS kelas C; wajib memberi tahu pasangan | Kanal pengaduan kota; sanksi pelanggaran rahasia | Waktu diagnosis→ARV; perkara Ps 9 jo. 20 |
-| PSP | Disebut netral sebagai populasi kunci | PSK "seorang wanita"; larangan sarana asusila; pemeriksaan IMS berkala | Jalur keberatan; pengecualian kondom dan penjangkauan | Operasi Satpol PP; penyitaan kondom |
-| LSL | Disebut netral di dua instrumen; tidak disebut di empat | "Mendekati perzinaan"; wajib lapor berbasis dugaan | Layanan khusus LSL | Kunjungan layanan; pengalaman penertiban |
-| TG | "Waria" disebut, tanpa manfaat spesifik | Larangan lokasi; pidana bertempat tinggal di ruang publik | Hilang dari indikasi ARV dan definisi PSK | Data terpilah identitas gender |
-| PENASUN | Pemegang hak: LASS, PTRM | "Penyalahguna"; tes urine; data tanpa perlindungan (Perda 5/2022) | Penghubung Perda HIV–P4GN | Rujukan IPWL; cakupan LASS/PTRM |
+| ODHIV | Pemegang hak di tiga instrumen | Pidana status, "mandatory test" (Prov Ps 9, 10, 20); syarat PMO; wajib memberi tahu pasangan | Kanal pengaduan; sanksi pelanggaran rahasia | Waktu diagnosis→ARV; perkara |
+| PSP | Disebut netral sebagai populasi kunci | PSK "seorang wanita"; larangan sarana asusila; pemeriksaan IMS | Jalur keberatan; pengecualian kondom | Operasi Satpol PP |
+| LSL | Netral di dua instrumen; tidak disebut di empat | "Mendekati perzinaan"; wajib lapor berbasis dugaan | Layanan khusus LSL | Kunjungan layanan |
+| TG | "Waria" disebut, tanpa manfaat spesifik | Larangan lokasi; pidana ruang publik | Indikasi ARV; definisi PSK | Data terpilah identitas gender |
+| PENASUN | Pemegang hak: LASS, PTRM | "Penyalahguna"; tes urine; data tanpa perlindungan | Penghubung Perda HIV–P4GN | Rujukan IPWL; cakupan LASS/PTRM |
 
 *Sumber: diolah dari laporan sumber Kota Makassar, bagian 5 dan 13.4. Pengodean adalah kandidat berbasis teks.*
 
@@ -206,7 +206,7 @@ Laporan sumber membedakan jenis relasi berikut:
 
 **Temuan utama.** Pengaman layanan (harm reduction, larangan menolak pasien, persetujuan tertulis KTS) cenderung dipertahankan atau diperkuat di kota. Pengaman prosedural (konseling sebelum pembukaan status, batas pengecualian persetujuan, akses ARV tanpa syarat tambahan, layanan tanpa tarif) cenderung menyempit, di dalam Perwali maupun di batas antara Perwali dan Perda non-HIV kota. Tes wajib dan pidana ditambahkan di provinsi.
 
-Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang** (tidak terbawa), **Ditambah di daerah**, **Bertentangan (kandidat)**, dan **Belum ditemukan**; laporan sumber juga memakai "Diubah" untuk konseling, yang di kota berubah fungsi menjadi syarat dan objek tarif. Semua adalah pembacaan teks berbasis kandidat; kolom nasional memakai kerangka sesudah 11 Maret 2026.
+Kategori arah perubahan: **Dipertahankan**, **Menyempit**, **Hilang** (tidak terbawa), **Ditambah di daerah**, **Bertentangan (kandidat)**, dan **Belum ditemukan**; sumber juga memakai "Diubah" untuk konseling, yang di kota menjadi syarat dan objek tarif. Semua adalah pembacaan teks; kolom nasional memakai kerangka sesudah 11 Maret 2026.
 
 **Exhibit 4.4. Alignment pengaman: Nasional → Provinsi Sulawesi Selatan → Kota Makassar**
 
@@ -263,18 +263,18 @@ Contoh paling material:
 
 | Arah | Aturan A ↔ Aturan B | Sifat ketegangan | Hak / kelompok | Status |
 |---|---|---|---|---|
-| Internal | Perda Prov 4/2010: "mandatory test" ↔ prinsip sukarela | Tes wajib vs sukarela | H3, H1 / ODHIV | Kandidat ketegangan |
-| Internal | Perda Prov 4/2010 Ps 9 jo. 20 ↔ Ps 10 ayat (2) angka 4 | ODHIV dipidana; pelanggar rahasia tanpa sanksi | H3, H6 / ODHIV | Kandidat; tanpa sanksi = temuan normatif |
-| Internal | Perda Kota 1/2024 Ps 123 ↔ Ps 72 ayat (5) | Pidana merujuk ayat yang salah | H1 / wajib retribusi | Temuan normatif |
-| Horizontal | Perwali Ps 10 ayat (2) ↔ Perda Kota 7/2021 Ps 19 jo. 42, 44 | Lokasi pencegahan vs larangan sarana asusila | H1, H3, H6 / PSP, LSL, TG | Kandidat ketegangan |
-| Horizontal | Perwali Ps 20 ↔ Perda Kota 1/2024 Lampiran I | VCT terjangkau vs tarif | H1, H5 / ODHIV, orang miskin | Kandidat ketegangan |
-| Horizontal | Perwali Ps 7 ayat (7) ↔ Perda Kota 7/2021 Ps 1 angka 31 | Waria, LSL disebut vs PSK "seorang wanita" | H2, H6 / TG, PSP | Kandidat ketegangan |
-| Horizontal | Perda Prov 4/2010 Ps 8 ↔ Perda Prov 5/2022 Ps 2 ayat (3) | Harm reduction vs P4GN tanpa harm reduction | H1, H7 / PENASUN | Kandidat ketegangan |
+| Internal | Perda Prov 4/2010: "mandatory test" ↔ prinsip sukarela | Tes wajib vs sukarela | H3, H1 / ODHIV | Kandidat |
+| Internal | Perda Prov 4/2010 Ps 9 jo. 20 ↔ Ps 10 ayat (2) angka 4 | ODHIV dipidana; pelanggar rahasia tidak | H3, H6 / ODHIV | Kandidat; temuan normatif |
+| Internal | Perda Kota 1/2024 Ps 123 ↔ Ps 72 ayat (5) | Salah rujuk norma pidana | H1 / wajib retribusi | Temuan normatif |
+| Horizontal | Perwali Ps 10 ayat (2) ↔ Perda Kota 7/2021 Ps 19 jo. 42, 44 | Lokasi pencegahan vs larangan asusila | H1, H3, H6 / PSP, LSL, TG | Kandidat |
+| Horizontal | Perwali Ps 20 ↔ Perda Kota 1/2024 Lampiran I | VCT terjangkau vs tarif | H1, H5 / ODHIV, orang miskin | Kandidat |
+| Horizontal | Perwali Ps 7 ayat (7) ↔ Perda Kota 7/2021 Ps 1 angka 31 | Waria disebut vs PSK "seorang wanita" | H2, H6 / TG, PSP | Kandidat |
+| Horizontal | Perda Prov 4/2010 Ps 8 ↔ Perda Prov 5/2022 Ps 2 ayat (3) | Harm reduction vs P4GN tanpa harm reduction | H1, H7 / PENASUN | Kandidat |
 | Vertikal | Lampiran 23/2022 ↔ Perwali Ps 32 | ARV hari yang sama vs PMO, RS kelas C | H1 / ODHIV | Kandidat pertentangan |
-| Vertikal (tematik) | Perda Prov 4/2010 Ps 10 ayat (2) angka 5 ↔ Perwali Ps 21, 47 | Konseling sebelum buka status tidak terbawa | H3 / ODHIV, perempuan dengan HIV | Kandidat |
-| Vertikal | UU 17/2023 Ps 293 ↔ Perwali Ps 22 ayat (3) | Pengecualian persetujuan di luar UU | H3, H1 / orang yang dites | Kandidat pertentangan |
+| Vertikal (tematik) | Perda Prov 4/2010 Ps 10 ayat (2) angka 5 ↔ Perwali Ps 21, 47 | Konseling sebelum buka status tidak terbawa | H3 / ODHIV, perempuan | Kandidat |
+| Vertikal | UU 17/2023 Ps 293 ↔ Perwali Ps 22 ayat (3) | Pengecualian persetujuan di luar UU | H3 / orang yang dites | Kandidat pertentangan |
 | Vertikal | Arah nasional ↔ Perda Prov 4/2010 Ps 9 jo. 20 | Pidana berbasis status | H3, H6 / ODHIV | Kandidat pertentangan |
-| Vertikal | Permendagri 59/2021 ↔ Perda Kota 1/2024 | SPM layanan HIV vs tarif | H1 / orang berisiko | Kandidat; tidak dapat dinilai |
+| Vertikal | Permendagri 59/2021 ↔ Perda Kota 1/2024 | SPM vs tarif | H1 / orang berisiko | Kandidat; tidak dapat dinilai |
 
 *Sumber: diolah dari laporan sumber Kota Makassar, bagian 3.2 dan 8. Baris internal provinsi dipecah dua agar kedua sifat ketegangan terlihat.*
 
